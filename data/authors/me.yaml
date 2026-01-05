@@ -79,17 +79,17 @@ experience:
     org: University of Sharjah
     start: 2022
     summary: |
-      advancing research in real-time geospatial big data analytics and teaching core courses in data science, GIS, and software development.
+      Advancing research in real-time geospatial big data analytics and teaching core courses in data science, GIS, and software development.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Postdoctoral Researcher
+    org: University of Bologna
+    start: 2020
+    end: 2022
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Advancing QoS-aware geospatial stream processing, big data integration for smart cities, and Cloud/Edge architectures with publications in top IEEE venues..
 
 skills:
   - name: Technical Skills
