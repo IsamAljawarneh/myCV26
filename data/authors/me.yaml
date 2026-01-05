@@ -112,8 +112,11 @@ skills:
 languages:
   - name: English
     level: 5
+    label: Fluent
+  - name: Arabic
+    level: 5
     label: Native
-  - name: Spanish
+  - name: Italian
     level: 4
     label: Fluent
 
