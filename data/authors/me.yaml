@@ -67,12 +67,12 @@ education:
       icon: hero/arrow-down-tray
   - degree: MS Information Technology
     institution: Universiti Utara Malaysia
-    start: 2007
-    end: 2008
+    start: 2007-01-01
+    end: 2008-10-01
   - degree: BSc Computer Science
     institution: Al Al-Bayt University
-    start: 1999
-    end: 2005
+    start: 1999-10-01
+    end: 2005-05-01
 
 experience:
   - role: Assistant Professor
