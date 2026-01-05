@@ -28,45 +28,47 @@ bio: |
   with practical deployment in smart infrastructure systems.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Sharjah
+    url: https://www.sharjah.ac.ae/Academics/Faculty-And-Staff/Isam-Al-Jawarneh
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:ijawarneh@sharjah.ac.ae
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/IsamAljawarneh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/isam-al-jawarneh-9b9268b8/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-4796-2181
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Large Geospatial Models (LGMs)
+  - Geospatial data science
+  - GeoAI
+  - Geospatial databases
+  - Big data management
+  - Recommender systems
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Computer Science and Engineering
+    institution: University of Bologna
+    start: 2016-10-01
+    end: 2020-04-02
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on geosaptial big data management. Published 5 papers in IEEE Transactions, GLOBECOM, and ICC.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
+  - degree: MS Information Technology
+    institution: Universiti Utara Malaysia
+    start: 2007
+    end: 2008
   - degree: BS Computer Science
     institution: MIT
     start: 2009-09-01
