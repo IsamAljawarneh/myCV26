@@ -57,7 +57,7 @@ interests:
 education:
   - degree: PhD Computer Science and Engineering
     institution: University of Bologna
-    start: 
+    start: 2016
     end: 2020
     summary: |
       Thesis on geosaptial big data management. Published 5 papers in IEEE Transactions, GLOBECOM, and ICC.
@@ -67,11 +67,11 @@ education:
       icon: hero/arrow-down-tray
   - degree: MS Information Technology
     institution: Universiti Utara Malaysia
-    start: 
+    start: 2007
     end: 2008
   - degree: BSc Computer Science
     institution: Al Al-Bayt University
-    start: 
+    start: 1999
     end: 2005
 
 experience:
