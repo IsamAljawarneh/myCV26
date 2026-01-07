@@ -15,11 +15,14 @@ tags:
   - IoT
   - Big Data
 external_link: ""
-url_code: "[View Repo on Github](https://github.com/lorenzofelletti/EdgeCloudApproximate.git)"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 image: []
+links:
+  - type: code
+    url: https://github.com/lorenzofelletti/EdgeCloudApproximate.git
 ---
 
 <!-- Write your content here -->
