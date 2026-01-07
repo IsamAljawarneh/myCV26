@@ -3,7 +3,7 @@ title: EdgeSOS
 date: 2023-01-03
 draft: false
 summary: EdgeSOS enables efficient geospatial sampling on edge nodes, reducing bandwidth and latency while preserving spatial accuracy for real-time smart city analytics.
-authors: []
+authors: [Isam Al Jawarneh, Lorenzo Felletti]
 tags:
   - Edge Computing
   - Geospatial Analytics
@@ -24,5 +24,5 @@ links:
   - type: code
     url: https://github.com/lorenzofelletti/EdgeCloudApproximate.git
 ---
-
+EdgeSOS enables efficient geospatial sampling on edge nodes, reducing bandwidth and latency while preserving spatial accuracy for real-time smart city analytics.
 <!-- Write your content here -->
