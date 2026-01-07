@@ -15,10 +15,7 @@ status:
   icon: "☕️"
 role: Assistant Professor
 bio: |
-  Dr. Isam Mashhour Al Jawarneh is an Assistant Professor in the Department of Computer Science at the University of Sharjah, UAE, 
-  where he leads research at the intersection of geospatial data science, big data systems, and smart city analytics. 
-  He earned his Ph.D. in Computer Science and Engineering from the University of Bologna, Italy, in 2020, 
-  and served as a Postdoctoral Research Fellow there until 2022. His work centers on scalable, real-time processing of spatiotemporal data
+  Dr. Isam Mashhour Al Jawarneh is an Assistant Professor in the Department of Computer Science at the University of Sharjah, UAE, where he leads research at the intersection of geospatial data science, big data systems, and smart city analytics. He earned his Ph.D. in Computer Science and Engineering from the University of Bologna, Italy, in 2020, and served as a Postdoctoral Research Fellow there until 2022. His work centers on scalable, real-time processing of spatiotemporal data
   streams—developing novel Cloud- and Edge-based architectures, QoS-aware approximate query techniques, 
   and intelligent data management frameworks for urban and environmental applications. 
   His research has been published in premier IEEE venues such as GLOBECOM and ICC, 
