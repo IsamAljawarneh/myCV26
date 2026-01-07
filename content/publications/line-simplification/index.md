@@ -71,6 +71,6 @@ slides: ""
 ---
 
 > [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+> Click the _Cite_ button above to import publication metadata into your reference management software.
 
 This work addresses the computational bottleneck of spatial joins between massive point-based mobility data and high-resolution polygonal administrative boundaries (e.g., city neighborhoods). By applying line simplification as a preprocessing step, the authors significantly reduce the geometric complexity of polygons—enabling faster spatial containment checks during joins. Two algorithms (Douglas-Peucker and Visvalingam-Whyatt) are evaluated across two platforms (Shapely in Python and Mapshaper.org), with results showing that Mapshaper-based simplification achieves the best balance of topology preservation, minimal boundary overlap, and computational efficiency. The approach supports scalable geospatial analytics in smart cities, particularly for tasks requiring repeated spatial joins under strict QoS constraints.
