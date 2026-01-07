@@ -1,0 +1,25 @@
+slug: "d"
+name:
+  display: "Dr. Isam Al Jawarneh"
+  given: "ISAM"
+  family: "AL JAWARNEH"
+  middle: "MASHHOUR HASAN"
+role: "Assistant Professor"
+bio: "Dr. Isam Al Jawarneh is currently an Assistant Professor at the department of computer science, University of Sharjah, UAE (joined September 2022). He obtained his Ph.D. degree in Computer Science and Engineering from University of Bologna in 2020, supervised by Rebecca Montanari. His research interests cover many aspects of big geospatial data management, spatial data science and database systems. Specifically, he focuses on distributed geospatial database management systems from a perspective that spans many aspects related to designing novel indexing and querying schemes, in addition to novel models for approximate data query processing in the Cloud. He also has an interest in context-aware recommender systems, data warehousing & data lakes. Isam’s research works have been presented and published in top-tier high-impact venues in computer science such as IEEE GLOBECOM & ICC conferences, in addition to IEEE transactions journals."
+status:
+  icon: "🚀"
+postnominals:
+  - "PhD"
+links:
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/isam-al-jawarneh-9b9268b8/"
+    label: "LinkedIn"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en"
+    label: "Google Scholar"
+ids:
+  orcid: "0000-0002-4796-2181"
+  google_scholar: "hv5C-NIAAAAJ"
+  scopus: "57204811672"
+schema: "hugoblox/author/v1"
+weight: null

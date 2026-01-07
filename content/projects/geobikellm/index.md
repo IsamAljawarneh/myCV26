@@ -3,7 +3,7 @@ title: GeoBikeLLM
 date: 2025-01-05
 draft: false
 summary: LLM-Powered Bike Route Planning with Air Quality and Vegetation-Aware Geospatial Intelligence
-authors: []
+authors: [Dr. Isam Al Jawarneh]
 tags:
   - Large Language Models
   - Geospatial AI (GeoAI)
