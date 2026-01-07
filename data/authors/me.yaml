@@ -90,19 +90,19 @@ experience:
     end: 2022-08-29
     summary: |
       Advancing QoS-aware geospatial stream processing, big data integration for smart cities, and Cloud/Edge architectures with publications in top IEEE venues..
-- role:  Teaching Assistant
+  - role:  Teaching Assistant
     org: University of Bologna
     start: 2018-09-01
     end: 2019-09-01
     summary: |
       guiding students in high-performance computing concepts, parallel algorithms, and modern programming models.
-- role:  Research Fellow
+  - role:  Research Fellow
     org: University of Bologna
     start: 2017-04-01
     end: 2020-03-30
     summary: |
       Developing QoS-aware big geospatial data systems, scalable Cloud/Edge architectures, and context-aware analytics for smart cities and environmental monitoring.
-- role:  University Lecturer
+  - role:  University Lecturer
     org: University of Business and Technology
     start: 2009-05-01
     end: 2016-03-30
