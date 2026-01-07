@@ -7,10 +7,10 @@ name:
   family: Al Jawarneh
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: 
 postnominals:
   - PhD
-  - MIEEE
+  
 status:
   icon: "☕️"
 role: Assistant Professor
