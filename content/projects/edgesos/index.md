@@ -23,6 +23,8 @@ image: []
 links:
   - type: code
     url: https://github.com/lorenzofelletti/EdgeCloudApproximate.git
+  - type: site
+    url: https://github.com/lorenzofelletti/EdgeCloudApproximate.git
 ---
 EdgeSOS enables efficient geospatial sampling on edge nodes, reducing bandwidth and latency while preserving spatial accuracy for real-time smart city analytics.
 <!-- Write your content here -->
