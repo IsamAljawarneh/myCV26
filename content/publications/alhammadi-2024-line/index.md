@@ -12,4 +12,17 @@ publication_types:
 - paper-conference
 publication: '*2024 Fifth International Conference on Intelligent Data Science Technologies
   and Applications (IDSTA)*'
+links:
+  - type: pdf
+    url: "IDSTA24_camera_ready.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: IDSTA24_presentation.pdf
+  - type: source
+    url: 
+  - type: video
+    url: 
 ---

@@ -1,6 +1,5 @@
 ---
-title: A novel approximate computing method for efficient search in satellite remote
-  sensing products
+title: A novel approximate computing method for efficient search in satellite remote sensing products
 authors:
 - Ali Alsalama
 - Ahmed Kubba
@@ -12,4 +11,17 @@ publication_types:
 - paper-conference
 publication: '*2024 International Conference on Multimedia Computing, Networking and
   Applications (MCNA)*'
+links:
+  - type: pdf
+    url: "MCNA24.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: 
+  - type: source
+    url: 
+  - type: video
+    url:
 ---

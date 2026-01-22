@@ -12,4 +12,17 @@ publication_types:
 - paper-conference
 publication: '*2025 3rd International Conference on Intelligent Metaverse Technologies
   & Applications (iMETA)*'
+links:
+  - type: pdf
+    url: "iMETA25.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: 
+  - type: source
+    url: 
+  - type: video
+    url: 
 ---

@@ -1,6 +1,5 @@
 ---
-title: A pre-filtering approach for incorporating contextual information into deep
-  learning based recommender systems
+title: A pre-filtering approach for incorporating contextual information into deep learning based recommender systems
 authors:
 - Isam Mashhour Al Jawarneh
 - Paolo Bellavista

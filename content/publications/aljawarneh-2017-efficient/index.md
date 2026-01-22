@@ -1,6 +1,5 @@
 ---
-title: Efficient spark-based framework for big geospatial data query processing and
-  analysis
+title: Efficient spark-based framework for big geospatial data query processing and analysis
 authors:
 - Isam Mashhour Aljawarneh
 - Paolo Bellavista
@@ -13,4 +12,17 @@ publishDate: '2026-01-19T14:07:34.618495Z'
 publication_types:
 - paper-conference
 publication: '*2017 IEEE symposium on computers and communications (ISCC)*'
+links:
+  - type: pdf
+    url: "a139-al_jawarneh.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: 
+  - type: source
+    url: 
+  - type: video
+    url: 
 ---

@@ -12,4 +12,17 @@ publication_types:
 - paper-conference
 publication: '*2021 IEEE 26th International Workshop on Computer Aided Modeling and
   Design of Communication Links and Networks (CAMAD)*'
+links:
+  - type: pdf
+    url: "CAMAD21.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: 
+  - type: source
+    url: 
+  - type: video
+    url: 
 ---
