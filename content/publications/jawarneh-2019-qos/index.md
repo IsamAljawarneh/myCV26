@@ -14,4 +14,17 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 20th International Conference on Distributed Computing
   and Networking*'
+links:
+  - type: pdf
+    url: "ICDCN19.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: ICDCN19_presentation.pdf
+  - type: source
+    url: 
+  - type: video
+    url:
 ---

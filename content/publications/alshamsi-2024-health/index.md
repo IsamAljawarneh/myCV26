@@ -11,4 +11,17 @@ publication_types:
 - paper-conference
 publication: '*2024 IEEE 29th International Workshop on Computer Aided Modeling and
   Design of Communication Links and Networks (CAMAD)*'
+links:
+  - type: pdf
+    url: "CAMAD24.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: CAMAD24_presentation.pdf
+  - type: source
+    url: 
+  - type: video
+    url:
 ---
