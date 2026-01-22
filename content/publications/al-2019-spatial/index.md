@@ -10,4 +10,18 @@ publishDate: '2026-01-19T14:07:34.686499Z'
 publication_types:
 - paper-conference
 publication: '*2019 IEEE global communications conference (GLOBECOM)*'
+
+links:
+  - type: pdf
+    url: "a483-al_jawarneh final.pdf"
+  - type: code
+    url: https://github.com/HugoBlox/kit
+  - type: dataset
+    url: https://github.com/HugoBlox/kit
+  - type: slides
+    url: https://www.slideshare.net/
+  - type: source
+    url: https://github.com/HugoBlox/kit
+  - type: video
+    url: https://youtube.com
 ---
