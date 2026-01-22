@@ -20,7 +20,7 @@ links:
   - type: dataset
     url: 
   - type: slides
-    url: 
+    url: iMETA25_presentation.pdf
   - type: source
     url: 
   - type: video
