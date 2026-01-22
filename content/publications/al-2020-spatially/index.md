@@ -12,4 +12,18 @@ publication_types:
 - paper-conference
 publication: '*2020 IEEE 25th International Workshop on Computer Aided Modeling and
   Design of Communication Links and Networks (CAMAD)*'
+
+links:
+  - type: pdf
+    url: "CAMAD20.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: https://github.com/IsamAljawarneh/SpatialSPE/tree/master/data/italy
+  - type: slides
+    url: 
+  - type: source
+    url: 
+  - type: video
+    url: 
 ---

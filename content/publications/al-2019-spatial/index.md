@@ -21,7 +21,7 @@ links:
   - type: slides
     url: GC_19_PRESENTATION.pdf
   - type: source
-    url: https://github.com/HugoBlox/kit
+    url: https://github.com/IsamAljawarneh/SpatialSPE
   - type: video
     url: https://youtube.com
 ---
