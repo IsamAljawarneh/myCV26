@@ -15,11 +15,11 @@ links:
   - type: pdf
     url: "a483-al_jawarneh final.pdf"
   - type: code
-    url: https://github.com/HugoBlox/kit
+    url: https://github.com/IsamAljawarneh/SpatialSPE
   - type: dataset
-    url: https://github.com/HugoBlox/kit
+    url: https://github.com/IsamAljawarneh/SpatialSPE/tree/master/data/italy
   - type: slides
-    url: https://www.slideshare.net/
+    url: GC_19_PRESENTATION.pdf
   - type: source
     url: https://github.com/HugoBlox/kit
   - type: video
