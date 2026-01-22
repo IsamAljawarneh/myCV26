@@ -12,4 +12,17 @@ publishDate: '2026-01-19T14:07:34.638702Z'
 publication_types:
 - paper-conference
 publication: '*2018 IEEE symposium on computers and communications (ISCC)*'
+links:
+  - type: pdf
+    url: "ISCC2018.pdf"
+  - type: code
+    url: 
+  - type: dataset
+    url: 
+  - type: slides
+    url: 
+  - type: source
+    url: 
+  - type: video
+    url: 
 ---
