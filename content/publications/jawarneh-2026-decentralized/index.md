@@ -7,7 +7,7 @@ authors:
 - Luca Foschini
 - Paolo Bellavista
 date: '2026-01-01'
-publishDate: '2026-06-18T21:54:17.758855Z'
+publishDate: '2026-05-03T15:03:42.758855Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2605.01922*'
