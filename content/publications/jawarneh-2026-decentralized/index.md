@@ -6,7 +6,7 @@ authors:
 - Lorenzo Felletti
 - Luca Foschini
 - Paolo Bellavista
-date: '2026-01-01'
+date: '2026-05-03'
 publishDate: '2026-05-03T15:03:42.758855Z'
 publication_types:
 - article-journal
