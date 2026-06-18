@@ -17,4 +17,29 @@ tags:
 - Parallel, and Cluster Computing
 
 featured: true
+
+hugoblox:
+  ids:
+    arxiv: 2605.01922v1
+
+links:
+- type: preprint
+  provider: arxiv
+  id: 2605.01922v1
+- type: code
+  url: "#"
+- type: slides
+  url: "#"
+- type: dataset
+  url: "#"
+- type: poster
+  url: "#"
+- type: source
+  url: "#"
+- type: video
+  url: "#"
+- type: custom
+  label: Custom Link
+  url: "#"
+
 ---
