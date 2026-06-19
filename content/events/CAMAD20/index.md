@@ -56,6 +56,9 @@ projects:
 - SpatialSPE
 ---
 
-{{< video library="true" src="videos/camad20.mp4" controls="yes" >}}
+<!-- Video removed: original shortcode referenced a page resource that wasn't present, which caused Hugo build failures.
+  To re-enable the video, add the MP4 to this page bundle at `content/events/CAMAD20/videos/camad20.mp4`
+  and restore the shortcode above, or place the file in `static/` and use an absolute URL. -->
+
 
 
