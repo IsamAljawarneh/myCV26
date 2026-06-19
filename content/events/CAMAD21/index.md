@@ -54,10 +54,10 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-{{< video library="true" src="videos/camad21.mp4" controls="yes" >}}
+<!-- {{< video library="true" src="videos/camad21.mp4" controls="yes" >}}
 {{% callout note %}}
 This is part of a project funded by Microsoft {{< hl >}}`AI for Earth` {{< /hl >}}
-{{% /callout %}}
+{{% /callout %}} -->
 
 
 
