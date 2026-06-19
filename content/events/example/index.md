@@ -47,6 +47,9 @@ links:
   - icon: book-open
     name: Documentation
     url: https://docs.hugoblox.com/guides/slides/
+  - icon: book-open
+    name: Slides show
+    url: https://isamaljawarneh.github.io/talks/CAMAD21.pdf/
 
 # Link to your Markdown slides
 slides: "example"
