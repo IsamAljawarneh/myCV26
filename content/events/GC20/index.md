@@ -53,9 +53,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-<!-- 
-{{< video library="true" src="videos/gc20.mp4" controls="yes" >}}
-{{% callout note %}} -->
+{{% callout note %}}
 **IEEE GLOBECOM** is a `top-tier conference` ranked {{< hl >}}**`A-`**{{< /hl >}} by the [gii-grin-scie](https://scie.lcc.uma.es:8443/gii-grin-scie-rating/) initiative, and ranked {{< hl >}}`B`{{< /hl >}} by [CORE](http://portal.core.edu.au/conf-ranks/) .
 {{% /callout %}}
 
