@@ -22,7 +22,7 @@ date_end: "2021-10-27T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-29-24T12:00:00Z"
+publishdate: "2021-10-24T12:00:00Z"
 
 authors: []
 tags: []
@@ -54,10 +54,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-{{< video library="true" src="videos/camad21.mp4" controls="yes" >}}
-{{% callout note %}}
-This is part of a project funded by Microsoft {{< hl >}}`AI for Earth` {{< /hl >}}
-{{% /callout %}}
+<!-- video shortcode removed: original referenced videos/camad21.mp4 -->
 
 
 

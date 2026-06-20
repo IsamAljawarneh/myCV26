@@ -54,7 +54,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-{{< video library="true" src="videos/icc2021.mp4" controls="yes" >}}
+<!-- video shortcode removed: original referenced videos/icc2021.mp4 -->
 
 {{% callout note %}}
 **IEEE ICC** is a `top-tier conference` ranked {{< hl >}}**`A`**{{< /hl >}} by the [gii-grin-scie](https://scie.lcc.uma.es:8443/gii-grin-scie-rating/) initiative, and ranked {{< hl >}}`B`{{< /hl >}} by [CORE](http://portal.core.edu.au/conf-ranks/) .
