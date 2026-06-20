@@ -1,5 +1,5 @@
 ---
-title: Spatially Representative Online Big Data Sampling for Smart Cities
+title: GeoBikeLLM: LLM-Powered Bike Route Planning with Air Quality and Vegetation Aware Geospatial Intelligence
 
 event: International Conference on Intelligent Data Science Technologies and Applications (IDSTA 2025)
 event_url: https://callforpapers.2021.foss4g.org/foss4g2021/talk/JP99SY/index.html
