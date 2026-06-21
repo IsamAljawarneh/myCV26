@@ -19,6 +19,7 @@ I  am co-teaching this PhD course  **`in collaboration with Prof. Luca Foschini`
 ### Course Description
 With most data arriving from real-world data-intensive problems being geo-referenced, it is becoming indispensable to design distributed geospatial software solutions for the large-scale management of such data. This course brings the foundational knowledge, explaining pivotal aspects pertinent to designing highly efficient distributed geospatial solutions for data-intensive applications. It covers the enabling technologies and architectures in Cloud storage and computing, including programing models (such as MapReduce and SQL-like declarative models) and algorithms from a middleware perspective.
 
+### Schedule
 {{< hl >}} Schedule{{< /hl >}}
 {style="color: red"}
 
