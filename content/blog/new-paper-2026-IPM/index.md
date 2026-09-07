@@ -1,5 +1,5 @@
 ---
-title: 🌍 GeoAgent-MG-RAG: Multi-Agent LLM Framework with Spatial Knowledge Graphs
+title: "🌍 GeoAgent-MG-RAG: Multi-Agent LLM Framework with Spatial Knowledge Graphs"
 summary: Announcing our new paper on context-aware urban planning and health analytics using multi-agent LLMs integrated with dynamic spatial knowledge graphs.
 date: 2026-09-07
 authors:
