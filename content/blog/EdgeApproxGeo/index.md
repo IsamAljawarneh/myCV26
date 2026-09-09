@@ -79,51 +79,6 @@ Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links,
     - Azure HDInsight Cluster
 ```
 
-
-```markmap {height="400px"}
-- EdgeApproxGeo
-  - Links
-    - [Full Paper (arXiv)](https://arxiv.org/abs/2605.01922)
-    - [GitHub Repository](https://github.com/edgeapproxgeo)
-    - [Docker Deployment Guide](https://docs.edgeapproxgeo.io)
-  - Core Components
-    - EdgeSOS Algorithm
-      - Decentralized Sampling
-      - `geohash` Stratification
-      - Rust + `rayon` Parallelism
-    - Spatial-Aware Routing
-      - Kafka Topic Partitioning
-      - Neighborhood Mapping
-      - O(1) Lookup Hashmap
-  - Performance
-    - 1.2× Speedup vs Cloud
-    - MAPE < 10% @ 80% Sample
-    - Latency ≈ 100ms/batch
-  - Math & Stats
-    - Estimator: $\hat{Y} = \sum_{k=1}^{K} \frac{N_k}{N} \bar{y}_k$
-    - Variance: $V(\hat{Y}) = \sum N_k^2 (1-f_k) \frac{s_k^2}{n_k}$
-    - CI: $\hat{Y} \pm z_{\alpha/2} \sqrt{V(\hat{Y})}$
-  - Validation
-    - Shenzhen Taxi Dataset
-    - Chicago Air Quality
-    - Azure HDInsight Cluster
-```
-
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/kit)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
 ## Key Innovations
 
 ### 🧠 EdgeSOS Algorithm
