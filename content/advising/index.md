@@ -16,7 +16,8 @@ header:
 
 {{< hl >}}I have co-advised several undergraduate researchers within the last five years.{{< /hl >}}
 
-## An example outstanding undergraduate student's project that I co-supervised recently:
+## An example 
+outstanding undergraduate student's project that I co-supervised recently:
 
 {{< hl >}}project title{{< /hl >}}: *QoS-aware Cloud-based Meteo and Mobility Data Processing at Scale*
 
@@ -40,7 +41,7 @@ Our student worked on a novel algorithm that enables the seamless integration of
 ## Master's Degree Students Supervised
 
 > [!NOTE]+ Lorenzo Felletti
-> **Thesis:** *Decentralized Stratified Sampling for Low-Latency Approximate Geospatial Data Stream Processing in Edge-Cloud Architectures*
+> **Thesis:** *Edge Cloud Computing for Geospatial Data Processing and Approximate Queries*
 > 
 > **Publication:** Co-authored journal article in *Cluster Computing* (Springer)
 > {{< button url="https://link.springer.com/article/10.1007/s10586-026-06219-1" new_tab="true" style="primary" size="sm" icon="document-text" >}}Read Paper{{< /button >}}
@@ -48,19 +49,21 @@ Our student worked on a novel algorithm that enables the seamless integration of
 > **Current Position:** SysDev @ Amazon
 
 {{< spoiler text="Click here to view thesis details" >}}
-Lorenzo's thesis introduced **EdgeApproxGeo**, a novel edge-cloud architecture featuring:
+**Thesis Title:** *Edge Cloud Computing for Geospatial Data Processing and Approximate Queries*
 
--   **EdgeSOS Algorithm**: A decentralized, geohash-based stratified sampling method operating independently on resource-constrained edge nodes without cross-node synchronization
--   **Spatial-Aware Kafka Routing**: Neighborhood-based topic partitioning derived from geohash-to-polygon mapping, eliminating costly network shuffles during Spark aggregation
--   **Rust Implementation**: Parallel execution using `rayon` achieving near-linear scaling up to 100K tuples/batch with <100ms latency
+Lorenzo's thesis proposed a novel edge-cloud architecture designed to offload preprocessing workloads from cloud clusters by leveraging lightweight edge nodes positioned near IoT data sources. Key contributions include:
 
-Validated on Shenzhen electric taxi mobility & Chicago hyperlocal air quality datasets, demonstrating a **1.2× speedup** over cloud-only baselines while maintaining MAPE < 10% at 80% sampling fraction.
+-   **Geohash-Based Stratified Sampling**: Edge nodes calculate geohashes for incoming tuples and perform decentralized stratified sampling locally, ensuring spatial representativeness without cross-node synchronization
+-   **Spatial-Aware Data Distribution**: Sampled data is routed to neighborhood-specific Apache Kafka topics via geohash-to-polygon mapping, enabling efficient downstream aggregation in Apache Spark
+-   **Containerized Pipeline Prototype**: The entire data pipeline—from IoT ingestion through edge preprocessing to cloud analytics—was deployed using Docker for portability and horizontal scaling
+
+The system was prototyped using real-world taxi trajectory data from Shenzhen (17M+ population), demonstrating that edge-based geohash sampling and spatial-aware routing significantly reduce cloud computational load while preserving statistical accuracy for approximate geospatial queries.
 {{< /spoiler >}}
 
 --------------------------------------------------------------------------------------------
 
 > [!NOTE]+ Madyan Omar
-> **Research Focus:** Multi-agent LLM frameworks with spatial knowledge graphs for context-aware urban planning and health analytics
+> **Research Focus:** TBA
 > 
 > **Publication:** Co-authored journal article in *Information Processing & Management* (Elsevier)
 > {{< button url="https://www.sciencedirect.com/science/article/pii/S0306457326004760" new_tab="true" style="primary" size="sm" icon="document-text" >}}Read Paper{{< /button >}}
@@ -70,10 +73,7 @@ Validated on Shenzhen electric taxi mobility & Chicago hyperlocal air quality da
 {{< spoiler text="Click here to view research details" >}}
 Madyan's research bridges the gap between plain Large Language Models and geospatial reasoning through structured knowledge grounding. Key contributions include:
 
--   **GeoAgent-MG-RAG Framework**: Multi-agent system integrating dynamic Geospatial Multi-modal Knowledge Graphs (GeoMMKG) with Retrieval-Augmented Generation
--   **Brain Orchestrator**: Achieves **97.5% tool-call accuracy** across four foundation models (Llama 4, GPT OSS, Kimi K2, Qwen3) using few-shot learning on 160 natural language queries
--   **Multi-Objective Optimization**: Successfully identifies Pareto-optimal solutions balancing distance, pollution exposure, and scenic value for route planning tasks
--   **POI Recommendation**: Maintains high positional relevance (NDCG > 0.6) even as query complexity increases
+TBD
 
 This work provides a scalable template for adapting multi-modal large language models to spatial public health challenges in smart city analytics.
 {{< /spoiler >}}
