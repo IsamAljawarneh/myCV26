@@ -120,9 +120,7 @@ Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links,
 </pre>
 </div>
 
-<div class="highlight">
-<pre class="chroma">
-<code>
+
 ```markmap
 - Mindmaps
   - Links
@@ -137,9 +135,6 @@ Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links,
     - `inline code`
     - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
-</code>
-</pre>
-</div>
 ## Key Innovations
 
 ### 🧠 EdgeSOS Algorithm
