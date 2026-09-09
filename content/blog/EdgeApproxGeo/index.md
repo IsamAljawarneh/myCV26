@@ -50,7 +50,9 @@ Our work introduces **EdgeApproxGeo**, a novel architecture that performs statis
 
 Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links, and math support. This visualizes our system's core components and key findings:
 
-
+<div class="highlight">
+<pre class="chroma">
+<code>
 ```markmap {height="500px"}
 - EdgeApproxGeo
   - Links
@@ -78,6 +80,10 @@ Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links,
     - Shenzhen Taxi Dataset
     - Chicago Air Quality
     - Azure HDInsight Cluster
+```
+</code>
+</pre>
+</div>
 
 <div class="highlight">
 <pre class="chroma">
