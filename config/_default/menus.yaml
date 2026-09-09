@@ -24,6 +24,8 @@ main:
     weight: 30
   #- name: Courses
   #  url: courses/
+  - name: advising
+    url: advising/
   - name: teaching
     url: teaching/
     weight: 40
