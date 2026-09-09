@@ -1,7 +1,7 @@
 ---
 title: Students Supervised
 summary: Master's degree students I have supervised or co-supervised, along with their research outcomes and current positions.
-date: 2018-06-28T00:00:00Z
+date: 2026-09-09T00:00:00Z
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,29 +14,7 @@ header:
   image: ""
 ---
 
-{{< hl >}}I have co-advised several undergraduate researchers within the last five years.{{< /hl >}}
 
-## An example 
-outstanding undergraduate student's project that I co-supervised recently:
-
-{{< hl >}}project title{{< /hl >}}: *QoS-aware Cloud-based Meteo and Mobility Data Processing at Scale*
-
-{{< hl >}}student{{< /hl >}}: [Denis Pereira](https://ie.linkedin.com/in/denis-pereira/en) currently `DevOps Engineer` at [workday Ireland](https://www.workday.com/en-us/homepage.html)
-
-{{< hl >}}My Role{{< /hl >}}:  **`Co-Advisor`** with Prof. [Paolo Bellavista](https://www.unibo.it/sitoweb/paolo.bellavista/en)
-
-{{< hl >}}Year{{< /hl >}}:  `2021`
-
-{{< hl >}}Code{{< /hl >}}:  [Code](https://github.com/denper1/MeteoMobilityIntegration)
-
-
-{{< spoiler text="Click here to view the project description" >}}
-**Project Description**
-Our student worked on a novel algorithm that enables the seamless integration of georeferenced mobility and meteorological data streams. The purpose is to generate a unified view that enables joint analytics. Advanced queries are then supported, such as `what are the Top-5 polluted neighborhoods in NYC, where vehicle mobility rates are high`. The project aims at enabling insightful analytics that foster the culture of planning the cities in a way that reduces the impact of air-borne pollutants (such as PM10 and PM2.5) on the health of the lightweight dwellers.
-
-{{< /spoiler >}}
-
---------------------------------------------------------------------------------------------
 
 ## Master's Degree Students Supervised
 
@@ -76,6 +54,30 @@ Madyan's research bridges the gap between plain Large Language Models and geospa
 TBD
 
 This work provides a scalable template for adapting multi-modal large language models to spatial public health challenges in smart city analytics.
+{{< /spoiler >}}
+
+--------------------------------------------------------------------------------------------
+
+{{< hl >}}I have co-advised several undergraduate researchers within the last five years.{{< /hl >}}
+
+## An example 
+outstanding undergraduate student's project that I co-supervised recently:
+
+{{< hl >}}project title{{< /hl >}}: *QoS-aware Cloud-based Meteo and Mobility Data Processing at Scale*
+
+{{< hl >}}student{{< /hl >}}: [Denis Pereira](https://ie.linkedin.com/in/denis-pereira/en) currently `DevOps Engineer` at [workday Ireland](https://www.workday.com/en-us/homepage.html)
+
+{{< hl >}}My Role{{< /hl >}}:  **`Co-Advisor`** with Prof. [Paolo Bellavista](https://www.unibo.it/sitoweb/paolo.bellavista/en)
+
+{{< hl >}}Year{{< /hl >}}:  `2021`
+
+{{< hl >}}Code{{< /hl >}}:  [Code](https://github.com/denper1/MeteoMobilityIntegration)
+
+
+{{< spoiler text="Click here to view the project description" >}}
+**Project Description**
+Our student worked on a novel algorithm that enables the seamless integration of georeferenced mobility and meteorological data streams. The purpose is to generate a unified view that enables joint analytics. Advanced queries are then supported, such as `what are the Top-5 polluted neighborhoods in NYC, where vehicle mobility rates are high`. The project aims at enabling insightful analytics that foster the culture of planning the cities in a way that reduces the impact of air-borne pollutants (such as PM10 and PM2.5) on the health of the lightweight dwellers.
+
 {{< /spoiler >}}
 
 --------------------------------------------------------------------------------------------
