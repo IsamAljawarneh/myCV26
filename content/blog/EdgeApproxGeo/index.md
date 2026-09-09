@@ -42,10 +42,74 @@ We are excited to announce the acceptance of our new journal article **"Decentra
 > [!TIP]
 > **Bridging the Edge-Cloud Gap**: Traditional cloud-based geospatial analytics suffer from bandwidth waste and latency. Our system moves intelligent sampling to the network edge, reducing data transfer while preserving statistical accuracy.
 
-Processing petabyte-scale geospatial data streams from IoT devices (e.g., vehicle telematics, air quality sensors) presents a critical challenge: **exact query processing is too slow and expensive**. While Approximate Query Processing (AQP) offers a solution, existing systems either ignore spatial characteristics or force all raw data to the cloud before sampling.
+Processing petabyte-scale geospatial data streams from IoT devices presents a critical challenge: **exact query processing is too slow and expensive**. While Approximate Query Processing (AQP) offers a solution, existing systems either ignore spatial characteristics or force all raw data to the cloud before sampling.
 
 Our work introduces **EdgeApproxGeo**, a novel architecture that performs statistically rigorous, geohash-based stratified sampling *directly on resource-constrained edge nodes*.
 
+## System Mindmap
+
+Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links, and math support. This visualizes our system's core components and key findings:
+
+<div class="highlight">
+<pre class="chroma">
+<code>
+```markmap {height="500px"}
+- EdgeApproxGeo
+  - Links
+    - [Full Paper (arXiv)](https://arxiv.org/abs/2605.01922)
+    - [GitHub Repository](https://github.com/edgeapproxgeo)
+    - [Docker Deployment Guide](https://docs.edgeapproxgeo.io)
+  - Core Components
+    - EdgeSOS Algorithm
+      - Decentralized Sampling
+      - `geohash` Stratification
+      - Rust + `rayon` Parallelism
+    - Spatial-Aware Routing
+      - Kafka Topic Partitioning
+      - Neighborhood Mapping
+      - O(1) Lookup Hashmap
+  - Performance
+    - 1.2× Speedup vs Cloud
+    - MAPE < 10% @ 80% Sample
+    - Latency ≈ 100ms/batch
+  - Math & Stats
+    - Estimator: $\hat{Y} = \sum_{k=1}^{K} \frac{N_k}{N} \bar{y}_k$
+    - Variance: $V(\hat{Y}) = \sum N_k^2 (1-f_k) \frac{s_k^2}{n_k}$
+    - CI: $\hat{Y} \pm z_{\alpha/2} \sqrt{V(\hat{Y})}$
+  - Validation
+    - Shenzhen Taxi Dataset
+    - Chicago Air Quality
+    - Azure HDInsight Cluster
+</code>
+</pre>
+</div>
+
+- EdgeApproxGeo
+  - Links
+    - [Full Paper (arXiv)](https://arxiv.org/abs/2605.01922)
+    - [GitHub Repository](https://github.com/edgeapproxgeo)
+    - [Docker Deployment Guide](https://docs.edgeapproxgeo.io)
+  - Core Components
+    - EdgeSOS Algorithm
+      - Decentralized Sampling
+      - `geohash` Stratification
+      - Rust + `rayon` Parallelism
+    - Spatial-Aware Routing
+      - Kafka Topic Partitioning
+      - Neighborhood Mapping
+      - O(1) Lookup Hashmap
+  - Performance
+    - 1.2× Speedup vs Cloud
+    - MAPE < 10% @ 80% Sample
+    - Latency ≈ 100ms/batch
+  - Math & Stats
+    - Estimator: $\hat{Y} = \sum_{k=1}^{K} \frac{N_k}{N} \bar{y}_k$
+    - Variance: $V(\hat{Y}) = \sum N_k^2 (1-f_k) \frac{s_k^2}{n_k}$
+    - CI: $\hat{Y} \pm z_{\alpha/2} \sqrt{V(\hat{Y})}$
+  - Validation
+    - Shenzhen Taxi Dataset
+    - Chicago Air Quality
+    - Azure HDInsight Cluster
 ## Key Innovations
 
 ### 🧠 EdgeSOS Algorithm
