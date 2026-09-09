@@ -79,6 +79,9 @@ Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links,
     - Chicago Air Quality
     - Azure HDInsight Cluster
 
+<div class="highlight">
+<pre class="chroma">
+<code>
 ```markmap {height="400px"}
 - EdgeApproxGeo
   - Links
@@ -107,6 +110,30 @@ Hugo Blox supports Markdown extensions for mindmaps with rich formatting, links,
     - Chicago Air Quality
     - Azure HDInsight Cluster
 ```
+</code>
+</pre>
+</div>
+
+<div class="highlight">
+<pre class="chroma">
+<code>
+```markmap
+- Mindmaps
+  - Links
+    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/kit)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+</code>
+</pre>
+</div>
 ## Key Innovations
 
 ### 🧠 EdgeSOS Algorithm
