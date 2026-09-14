@@ -29,7 +29,7 @@ experience:
     location: Sharjah, UAE
     date_start: '2022-09-01'
     date_end: ''
-    description: |2-
+   # description: |2-
 
   - title: Postdoctoral Researcher
     company: University of Bologna
