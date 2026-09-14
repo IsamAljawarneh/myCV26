@@ -38,7 +38,7 @@ experience:
     location: Bologna, ITALY
     date_start: '2020-04-01'
     date_end: '2022-08-30'
-    description: |2-
+   # description: |2-
         
   - title: Teaching Assistant
     company: School of Engineering, University of Bologna
@@ -47,7 +47,7 @@ experience:
     location: Bologna, ITALY
     date_start: 2018-09-01
     date_end: 2019-09-01
-    description: |-2
+    #description: |-2
 
 
   - title: Research Fellow 
@@ -58,7 +58,7 @@ experience:
     date_start: 2017-04-01
     date_end: 2020-03-01
 
-    description: |-2
+    #description: |-2
       
 
    
@@ -69,7 +69,7 @@ experience:
     location: Jeddah, Kingdom of Saudi Arabia
     date_start: 2009-03-01
     date_end: 2016-03-01
-    description: |-2
+    #description: |-2
 
 design:
   columns: '2'
