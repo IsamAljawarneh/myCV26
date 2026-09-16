@@ -16,7 +16,7 @@ abstract: The exponential growth of geospatial data streams flowing from IoT dev
 tags:
 - Parallel, and Cluster Computing
 
-featured: true
+featured: false
 
 hugoblox:
   ids:
