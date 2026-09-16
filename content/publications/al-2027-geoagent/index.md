@@ -12,4 +12,6 @@ publication_types:
 - article-journal
 publication: '*Information Processing & Management*'
 featured: true
+tags:
+- LLM, and Knowledge Graphs
 ---
