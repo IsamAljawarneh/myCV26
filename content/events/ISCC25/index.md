@@ -35,8 +35,8 @@ projects:
 
 links:
 
-url_code: ""
-url_pdf: ""
+#url_code: ""
+#url_pdf: ""
 url_slides: "talks/ISCC25.pdf"
 url_video: ""
 
