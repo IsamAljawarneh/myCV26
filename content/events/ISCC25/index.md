@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 projects:
-- CA-NCF
+- LSTM
 
 links:
 
