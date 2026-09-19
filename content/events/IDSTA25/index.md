@@ -1,5 +1,5 @@
 ---
-title: 🛴 🚲 GeoBikeLLM- LLM-Powered Bike Route Planning with Air Quality and Vegetation Aware Geospatial Intelligence
+title: 🛴 🚲 🌍 GeoBikeLLM- LLM-Powered Bike Route Planning with Air Quality and Vegetation Aware Geospatial Intelligence
 date: '2025-09-04T00:00:00Z'
 event: International Conference on Intelligent Data Science Technologies and Applications (IDSTA 2025)
 event_url: https://callforpapers.2021.foss4g.org/foss4g2021/talk/JP99SY/index.html
