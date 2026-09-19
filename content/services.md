@@ -13,7 +13,7 @@ comments: false
 I contribute to the research community through conference leadership, technical program committees, peer review, and session chairing across cloud computing, geospatial systems, networking, and data science.
 
 > [!NOTE]+ Service highlights
-> Conference and journal service spans **2018-2025**, including leadership roles as workshop chair, TPC chair, and session chair.
+> Conference and journal service spans **2018-2026**, including leadership roles as workshop chair, TPC chair, and session chair.
 
 ### Conference Leadership
 
