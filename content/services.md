@@ -40,8 +40,10 @@ comments: false
 
 ### Invited Journal Reviewer
 
-([Publons certificate](https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/))
+([Verified Reviewer Record: View my verified peer review history on Web of Science](https://www.webofscience.com/wos/author/record/O-8313-2019))
 
+- IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**2026**)
+- IEEE Networking Letters (**2026**)
 - International Journal of Digital Earth (**2025**)
 - IEEE Transactions on Circuits and Systems for Video Technology (**2025**)
 - PeerJ Computer Science (**2025**)
