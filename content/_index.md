@@ -47,6 +47,8 @@ sections:
         Please reach out to collaborate. 😃
         
         Email- ijawarneh [AT] sharjah.ac.ae
+
+        I love beach 🏝 and travelling  ✈
     design:
       columns: '1'
   - block: collection
