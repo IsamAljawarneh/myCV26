@@ -8,21 +8,29 @@ profile: false
 comments: false
 ---
 
+## Academic Services
 
-### Workshop Chair
+I contribute to the research community through conference leadership, technical program committees, peer review, and session chairing across cloud computing, geospatial systems, networking, and data science.
+
+> [!NOTE]+ Service highlights
+> Conference and journal service spans **2018-2025**, including leadership roles as workshop chair, TPC chair, and session chair.
+
+### Conference Leadership
+
+#### Workshop Chair
 
 - 15th Workshop on Management of Cloud and Smart City Systems (MoCS 2025), Bologna, Italy, July 2025
 
-### PC Member
+#### PC Member
 
 - **2023** International Conference on Intelligent Data Science Technologies and Applications (IDSTA2023) - IEEE
 - **2022** International Symposium on Algorithmic Aspects of Cloud Computing (ALGOCLOUD)
 
-### TPC Chair
+#### TPC Chair
 
 - International Conference on Modern Computing, Communication, and Applications (MCNA), IEEE, Tampa, Florida, USA, 19-22 May 2025
 
-### Technical Program Committee (TPC) Member
+#### Technical Program Committee (TPC) Member
 
 - IEEE ICC'25 - CQRM Symposium, 2025
 - TPC reviewer, IEEE/ACM UCC, 2024
@@ -33,13 +41,14 @@ comments: false
 - **2022** [IEEE ICC 2022](https://icc2022.ieee-icc.org/)
 - [IEEE BlackSeaCom 2021](https://blackseacom2021.ieee-blackseacom.org/)
 
-### Session Chair
+#### Session Chair
 
 - **IEEE IDSTA conference 2024**
 
-### Invited Journal Reviewer
+### Journal Reviewing
 
 ([Verified Reviewer Record: View my verified peer review history on Web of Science](https://www.webofscience.com/wos/author/record/O-8313-2019))
+{{< button url="https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/" new_tab="true" style="secondary" size="sm" icon="document-text" >}}View Publons profile and certificate{{< /button >}}
 
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**2026**)
 - IEEE Networking Letters (**2026**)
@@ -73,7 +82,7 @@ comments: false
 - Concurrency and Computation: Practice and Experience
 - Wireless Networks
 
-### Invited Conference Reviewer
+### Conference Reviewing
 
 - **IDSTA2023**
 - IEEE WCNC (**2023**)
