@@ -1,5 +1,5 @@
 	---
-title: Efficiently Integrating Mobility and Environment Data for Climate Change Analytics 
+title: 🛰 Efficiently Integrating Mobility and Environment Data for Climate Change Analytics 
 
 event: IEEE CAMAD 2021
 event_url: https://icc2021.ieee-icc.org/
