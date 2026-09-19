@@ -8,7 +8,6 @@ profile: false
 comments: false
 ---
 
-## Academic Services
 
 ### Workshop Chair
 
