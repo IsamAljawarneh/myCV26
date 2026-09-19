@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Service'
 date: 2026-09-19
 type: landing
 
@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: resume-service
     content:
       username: me
     design:
