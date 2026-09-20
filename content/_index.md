@@ -130,4 +130,16 @@ sections:
         # Card background color (CSS class)
         css_class: 'bg-primary-300 dark:bg-primary-700'
         css_style: ''
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        I am open for collaboration. Contact me if you are working on any of the research topics that are related to my [research interests](#about).
+
+        <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;">
+          <iframe src="https://www.google.com/maps/d/embed?mid=1j1HKpNttnWNCeNAyT7_gu8-TG7I5dxc&ehbc=2E312F" title="Interactive map" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" loading="lazy" allowfullscreen></iframe>
+        </div>
+    design:
+      columns: '1'
 ---
