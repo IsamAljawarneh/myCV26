@@ -45,6 +45,10 @@ sections:
         I am an Assistant Professor of Computer Science at the University of Sharjah. I blog about geospatial data science, GeoAI, and scalable big data systems. I apply a range of qualitative and quantitative methods to comprehensively investigate efficient approximate analytics for multidimensional big data streams, with a focus on smart cities, climate change mitigation, and environmental mobility data integration 
         
         Please reach out to collaborate. 😃
+        
+        Email- ijawarneh [AT] sharjah.ac.ae
+
+        I love beach 🏝 and travelling  ✈
     design:
       columns: '1'
   - block: collection

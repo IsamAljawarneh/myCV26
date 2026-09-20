@@ -15,7 +15,7 @@ I contribute to the research community through conference leadership, technical 
 > [!NOTE]+ Service highlights
 > Conference and journal service spans **2018-2026**, including leadership roles as workshop chair, TPC chair, and session chair.
 
-### Conference Leadership
+### 🎓 Conference Leadership
 
 #### Workshop Chair
 
@@ -45,10 +45,9 @@ I contribute to the research community through conference leadership, technical 
 
 - **IEEE IDSTA conference 2024**
 
-### Journal Reviewing
+### 📒 Journal Reviewing
 
-([Verified Reviewer Record: View my verified peer review history on Web of Science](https://www.webofscience.com/wos/author/record/O-8313-2019))
-{{< button url="https://publons.com/researcher/1547696/isam-mashhour-al-jawarneh/" new_tab="true" style="secondary" size="sm" icon="document-text" >}}View Publons profile and certificate{{< /button >}}
+{{< button url="https://www.webofscience.com/wos/author/record/O-8313-2019" new_tab="true" style="secondary" size="sm" icon="document-text" >}}View my verified peer review history on Web of Science (WoS){{< /button >}}
 
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**2026**)
 - IEEE Networking Letters (**2026**)
@@ -82,7 +81,7 @@ I contribute to the research community through conference leadership, technical 
 - Concurrency and Computation: Practice and Experience
 - Wireless Networks
 
-### Conference Reviewing
+### 🌐 Conference Reviewing
 
 - **IDSTA2023**
 - IEEE WCNC (**2023**)
