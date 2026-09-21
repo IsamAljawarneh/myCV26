@@ -37,6 +37,28 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: team-showcase
+    content:
+      title: Meet the team
+      subtitle: Research + Engineering
+      text: We combine research with high-velocity engineering.
+      user_groups:
+        - Principal Investigators
+      sort_by: name_family
+      sort_ascending: true
+      cta:
+        text: Join us
+        url: /apply
+        icon: hero/user-plus
+    design:
+      show_role: true
+      show_organizations: true
+      show_interests: true
+      max_interests: 3
+      show_social: true
+      align: left
+      max_columns: 3
+      show_empty_groups: false
   - block: markdown
     content:
       title: '📚 My Research'
