@@ -20,11 +20,11 @@ links:
     url: https://scholar.google.com/citations?user=Q9mCyCUAAAAJ&hl=en
     label: Google Scholar
 interests:
-  - Artificial intelligence
-  - Text-to-image models
-  - Image generation
-  - Android development
-  - Virtual tours
+  - '[GeoAI](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:geoai)'
+  - '[Geospatial Data Science](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:geospatial_data_science)'
+  - '[Time-Series](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:time_series)'
+  - '[Computer Vision](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision)'
+  - '[XAI](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:xai)'
 education:
   - degree: Master of Science in Artificial Intelligence
     institution: University of Sharjah
