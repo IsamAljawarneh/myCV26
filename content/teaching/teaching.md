@@ -21,11 +21,11 @@ Dr. Doe teaches courses in computer science and data science at Example Universi
 
 ## Courses at University of Sharjah
 
-| Course | Level | Title | Semesters |
-|--------|-------|-------|-----------|
-| CS 301 | Graduate (MSc) | GIS Programming fundamentals | Fall 24/25, Fall 25/26 |
-| CS 401 | Graduate (MSc) | Deep Learning | Spring 2024, Spring 2025 |
-| DS 501 | Graduate (MSc) | Advanced Data Science | Fall 2024 |
+| Course | Level | Title | Semesters | Website |
+|--------|-------|-------|-----------|---------|
+| CS 301 | Graduate (MSc) | GIS Programming fundamentals | Fall 24/25, Fall 25/26 | [Website](https://example.com/cs301) |
+| CS 401 | Graduate (MSc) | Deep Learning | Spring 2024, Spring 2025 | [Website](https://example.com/cs401) |
+| DS 501 | Graduate (MSc) | Advanced Data Science | Fall 2024 | [Website](https://example.com/ds501) |
 
 ---
 
