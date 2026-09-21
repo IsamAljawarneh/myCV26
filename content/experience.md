@@ -38,6 +38,21 @@ sections:
         </div>
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: Professional Memberships
+      text: |-
+        <div class="w-full flex flex-col gap-6">
+        <div class="w-full p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <h5 class="mb-2 text-2xl font-semibold text-gray-900 dark:text-white">Institute of Electrical and Electronics Engineers (IEEE)</h5>
+        </div>
+        <div class="w-full p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <h5 class="mb-2 text-2xl font-semibold text-gray-900 dark:text-white">Institute of Advanced Studies (ISA), University of Bologna, Italy</h5>
+        <div class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">2016 - 2020</div>
+        </div>
+        </div>
+    design:
+      columns: '1'
   - block: resume-skills
     content:
       title: Skills & Hobbies
