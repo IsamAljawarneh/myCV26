@@ -1,0 +1,10 @@
+{{- $basePath := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+<script>
+  (() => {
+    const basePath = {{ $basePath | jsonify | safeJS }};
+    if (!basePath) return;
+    document.querySelectorAll('a[href^="/authors/"]').forEach((link) => {
+      link.setAttribute('href', basePath + link.getAttribute('href'));
+    });
+  })();
+</script>
