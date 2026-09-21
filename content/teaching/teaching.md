@@ -26,6 +26,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 | Junior Project | UG | Spring 2022/2023; Spring 2023/2024 | |
 | Senior Project | UG | Fall 2022/2023; Fall 2023/2024 | |
 | Introduction to IT | UG | Summer 2023, 2024, 2025 | |
+| Introduction to AI | UG | Fall 2026/2027 | |
 | Programming for Engineers | UG | Fall 2022/2023; Fall 2023/2024 | |
 | Web Programming | UG | Fall 2022/2023; Fall 2023/2024 | Updated the course materials. |
 | Development of Web Applications | UG | Fall 2022/2023; Fall 2023/2024; Fall 2024/2025; Fall 2025/2026 | Updated the course materials. |
