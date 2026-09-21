@@ -50,12 +50,11 @@ Dr. Doe teaches courses in computer science and data science at Example Universi
 
 ### Past Students
 
-:::{dropdown} Graduated
-:open:
+{{< spoiler text="Graduated" >}}
 
 | Name | Program | Topic | Year |
 |------|---------|-------|------|
 | Carol Williams | M.S. | Natural language processing | 2025 |
 | David Brown | M.S. | Computer vision applications | 2024 |
 
-:::
+{{< /spoiler >}}
