@@ -22,15 +22,20 @@ sections:
     content:
       title: Professional Training
       text: |-
-        **July 2019**
-
-        **3rd International Summer School on Deep Learning (DeepLearn 2019)**, Warsaw, Poland.
-
-        **July 2017**
-
-        **Seventh European Business Intelligence & Big Data Summer School (eBISS 2017)**, Brussels, Belgium.
-
-        Presented a poster titled *QoS-Aware Big Geospatial Data Processing*. [Download the poster PDF](https://cs.ulb.ac.be/conferences/ebiss2017/files/posters/aljawarneh_ebiss2017_poster.pdf)
+        <div class="w-full flex flex-col gap-6">
+        <div class="w-full p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <h5 class="mb-2 text-2xl font-semibold text-gray-900 dark:text-white">3rd International Summer School on Deep Learning (DeepLearn 2019)</h5>
+        <div class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">July 2019 · Warsaw, Poland</div>
+        <p>Professional training in deep learning.</p>
+        <a href="https://irdta.eu/deeplearn2019/">View training details</a>
+        </div>
+        <div class="w-full p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <h5 class="mb-2 text-2xl font-semibold text-gray-900 dark:text-white">Seventh European Business Intelligence &amp; Big Data Summer School (eBISS 2017)</h5>
+        <div class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">July 2017 · Brussels, Belgium</div>
+        <p>Presented a poster titled <em>QoS-Aware Big Geospatial Data Processing</em>.</p>
+        <a href="https://cs.ulb.ac.be/conferences/ebiss2017/files/posters/aljawarneh_ebiss2017_poster.pdf">Download the poster PDF</a>
+        </div>
+        </div>
     design:
       columns: '1'
   - block: resume-skills
