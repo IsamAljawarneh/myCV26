@@ -49,7 +49,7 @@ sections:
       sort_ascending: true
       cta:
         text: Join us
-        url: /apply
+        url: /myCV26/apply
         icon: hero/user-plus
     design:
       show_role: true
