@@ -1,13 +1,12 @@
 ---
 title: Teaching
 description: Courses taught and student mentoring.
+toc: true
 keywords:
   - Teaching
   - Courses
   - Mentoring
 ---
-
-# Teaching
 
 Dr. Doe teaches courses in computer science and data science at Example University.
 
