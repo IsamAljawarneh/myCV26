@@ -138,7 +138,11 @@ sections:
         I am open for collaboration. Contact me if you are working on any of the research topics that are related to my [research interests](#about).
 
         <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;">
+<<<<<<< Updated upstream
           <iframe src="https://www.google.com/maps/d/embed?mid=1ck0lFXOC8-uR2bRrQpvXqVTDU4Bri_s&ehbc=2E312F" title="Interactive map" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" loading="lazy" allowfullscreen></iframe>
+=======
+          <iframe src="https://www.google.com/maps/d/u/2/edit?mid=1ck0lFXOC8-uR2bRrQpvXqVTDU4Bri_s&usp=sharing" title="Interactive map" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" loading="lazy" allowfullscreen></iframe>
+>>>>>>> Stashed changes
         </div>
     design:
       columns: '1'
