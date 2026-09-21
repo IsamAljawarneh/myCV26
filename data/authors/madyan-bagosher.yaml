@@ -16,6 +16,9 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/madyan-bagsheir-6b5847198/
     label: LinkedIn
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=Q9mCyCUAAAAJ&hl=en
+    label: Google Scholar
 interests:
   - Artificial intelligence
   - Text-to-image models
