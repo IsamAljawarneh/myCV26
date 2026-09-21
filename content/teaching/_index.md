@@ -7,4 +7,4 @@ keywords:
   - Mentoring
 ---
 
-View the complete list of courses and mentoring activities on the [Teaching details page](/teaching/teaching/).
+View the complete list of courses and mentoring activities on the [Teaching details page]({{< relref "teaching.md" >}}).
