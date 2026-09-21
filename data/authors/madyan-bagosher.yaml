@@ -1,0 +1,52 @@
+schema: hugoblox/author/v1
+slug: madyan-bagosher
+name:
+  display: Madyan Bagosher
+  given: Madyan
+  family: Bagosher
+role: Research Assistant
+user_groups:
+  - Research Assistants
+bio: |
+  Research Assistant at the University of Sharjah with experience researching text-to-image models and image generation. His technical background also includes Android application development and virtual tour creation.
+affiliations:
+  - name: University of Sharjah
+    url: https://www.sharjah.ac.ae/
+links:
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/madyan-bagsheir-6b5847198/
+    label: LinkedIn
+interests:
+  - Artificial intelligence
+  - Text-to-image models
+  - Image generation
+  - Android development
+  - Virtual tours
+education:
+  - degree: Master of Science in Artificial Intelligence
+    institution: University of Sharjah
+    start: 2024-01-01
+    end: 2025-12-01
+  - degree: Bachelor of Science in Information Technology Multimedia
+    institution: University of Sharjah
+    start: 2018-01-01
+    end: 2022-12-01
+experience:
+  - role: Research Assistant
+    org: University of Sharjah
+    start: 2024-02-01
+    end: 2024-05-01
+    summary: |
+      Researched text-to-image models and studied core concepts in image generation.
+  - role: Android Developer
+    org: Sharjah Academy for Astronomy, Space Sciences and Technology
+    start: 2023-05-01
+    end: 2023-07-01
+    summary: |
+      Developed a space newsletter mobile application using Android Studio, Java, FlatBuffers, and Firebase.
+  - role: Virtual Tour Creator
+    org: University of Sharjah
+    start: 2021-12-01
+    end: 2022-02-01
+    summary: |
+      Created a virtual tour using Panoee, Adobe Photoshop, and Insta360 Stitcher.

@@ -44,6 +44,7 @@ sections:
       text: We combine research with high-velocity engineering.
       user_groups:
         - Principal Investigators
+        - Research Assistants
       sort_by: name_family
       sort_ascending: true
       cta:
