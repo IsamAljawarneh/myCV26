@@ -7,4 +7,4 @@ keywords:
   - Mentoring
 ---
 
-View the complete list of courses and mentoring activities on the [Teaching details page](https://isamaljawarneh.github.io/myCV26/teaching/teaching/).
+View the complete list of courses and mentoring activities on the [Teaching details page](teaching/teaching/).
