@@ -2,9 +2,11 @@ schema: hugoblox/author/v1
 slug: luca-foschini
 name:
   display: Luca Foschini
-role: Full Professor of Distributed Systems
+status:
+  icon: "🇮🇹"
+role: "Full Professor of Distributed Systems · 🇮🇹"
 user_groups:
-  - Principal Investigators
+  - Principal Investigators (faculty)
 bio: |
   Luca Foschini received the Ph.D. degree in computer science engineering from the University of Bologna, Italy, where he is currently a Full Professor of Distributed Systems. His interests span from integrated management of distributed systems and services to scalable context data distribution infrastructures, from mobile crowdsensing to big data platform management. He is now IEEE Director of the Technical Committees Board (2026-2027) and he serves on several Editorial Boards, including IEEE COMST and IEEE Networking Letters.
 affiliations:

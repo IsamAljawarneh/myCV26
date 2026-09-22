@@ -2,9 +2,11 @@ schema: hugoblox/author/v1
 slug: paolo-bellavista
 name:
   display: Paolo Bellavista
-role: Full Professor of Mobile Systems
+status:
+  icon: "🇮🇹"
+role: "Full Professor of Mobile Systems · 🇮🇹"
 user_groups:
-  - Principal Investigators
+  - Principal Investigators (faculty)
 bio: |
   Paolo Bellavista received the Ph.D. degree in computer science engineering from the University of Bologna, Italy, where he is currently a Full Professor of Mobile Systems. His research activities span from pervasive wireless computing to edge cloud computing, from digital twins for Industry 4.0 to high-performance middleware for distributed AI. He serves on several Editorial Boards, including IEEE COMST (AEiC), ACM CSUR, and IEEE TNSM.
 affiliations:

@@ -5,7 +5,9 @@ name:
   given: Madyan
   middle: Omar
   family: Bagosher
-role: Research Assistant
+status:
+  icon: "🇦🇪"
+role: "Research Assistant · 🇦🇪"
 user_groups:
   - Researchers
 bio: |

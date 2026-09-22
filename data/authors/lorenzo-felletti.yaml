@@ -2,7 +2,9 @@ schema: hugoblox/author/v1
 slug: lorenzo-felletti
 name:
   display: Lorenzo Felletti
-role: Researcher and SysDev at Amazon, Dublin, Ireland
+status:
+  icon: "🇮🇹 🇮🇪"
+role: "Researcher and SysDev at Amazon, Dublin, Ireland · 🇮🇹 🇮🇪"
 user_groups:
   - Researchers
 bio: |

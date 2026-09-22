@@ -1,0 +1,33 @@
+schema: hugoblox/author/v1
+slug: rebecca-montanari
+name:
+  display: Rebecca Montanari
+status:
+  icon: "🇮🇹"
+role: "Full Professor and Vice Rector for Digital Transformation · 🇮🇹"
+user_groups:
+  - Principal Investigators (faculty)
+bio: |
+  Rebecca Montanari graduated summa cum laude in Electronic Engineering at the University of Bologna in 1996. In 1997-1998 she worked for CryptoNet S.r.l., focusing on security technologies enabling electronic commerce applications. She received her Ph.D. degree in Computer Science Engineering from the Department of Electronics, Computer Science and Systems at the University of Bologna in 2001, with a dissertation on security models for mobile agents. She has been Associate Professor at the University of Bologna since 2005. Her research interests focus on policy-based networking and systems and service management, mobile agent systems, security management mechanisms, and middleware for self-managing and self-adapting distributed services based on semantically enhanced metadata. She has co-authored more than 50 papers in international journals, magazines, books, book chapters, conferences, and workshops, and has participated in technical program committees for numerous international conferences. She has also collaborated with research centers including Nokia Research Center Cambridge, MIT, Imperial College London, and the Institute for Human and Machine Cognition.
+affiliations:
+  - name: University of Bologna
+links:
+  - icon: hero/home
+    url: https://www.unibo.it/sitoweb/rebecca.montanari/cv-en
+    label: Homepage
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=dtxw7ZYAAAAJ&hl=en
+    label: Google Scholar
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/38/5309.html
+    label: DBLP
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-3687-0361
+    label: ORCID
+interests:
+  - Policy-based networking
+  - Systems and service management
+  - Mobile agent systems
+  - Security management
+  - Middleware for distributed services
+  - Self-managing and self-adapting systems
