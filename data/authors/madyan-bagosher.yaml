@@ -13,6 +13,9 @@ affiliations:
   - name: University of Sharjah
     url: https://www.sharjah.ac.ae/
 links:
+  - icon: brands/github
+    url: https://github.com/MadyanOmar
+    label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/madyan-bagsheir-6b5847198/
     label: LinkedIn
