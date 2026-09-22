@@ -9,6 +9,19 @@ bio: |
   Luca Foschini received the Ph.D. degree in computer science engineering from the University of Bologna, Italy, where he is currently a Full Professor of Distributed Systems. His interests span from integrated management of distributed systems and services to scalable context data distribution infrastructures, from mobile crowdsensing to big data platform management. He is now IEEE Director of the Technical Committees Board (2026-2027) and he serves on several Editorial Boards, including IEEE COMST and IEEE Networking Letters.
 affiliations:
   - name: University of Bologna
+links:
+  - icon: hero/home
+    url: https://www.unibo.it/sitoweb/luca.foschini/en
+    label: Homepage
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=YY8U1BEAAAAJ&hl=en
+    label: Google Scholar
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/luca-foschini-2a20858/
+    label: LinkedIn
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-9062-3647
+    label: ORCID
 interests:
   - Distributed systems and services
   - Context data distribution infrastructures
