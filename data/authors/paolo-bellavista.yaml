@@ -2,6 +2,8 @@ schema: hugoblox/author/v1
 slug: paolo-bellavista
 name:
   display: Paolo Bellavista
+status:
+  icon: "🇮🇹"
 role: Full Professor of Mobile Systems
 user_groups:
   - Principal Investigators (faculty)

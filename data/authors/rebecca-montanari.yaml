@@ -2,6 +2,8 @@ schema: hugoblox/author/v1
 slug: rebecca-montanari
 name:
   display: Rebecca Montanari
+status:
+  icon: "🇮🇹"
 role: Full Professor and Vice Rector for Digital Transformation
 user_groups:
   - Principal Investigators (faculty)
