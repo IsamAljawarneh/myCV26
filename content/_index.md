@@ -40,11 +40,11 @@ sections:
   - block: team-showcase
     content:
       title: Meet the team
-      subtitle: Research + Engineering
-      text: We combine research with high-velocity engineering.
+      subtitle: Geospatial AI, Big Data & Cloud Systems
+      text: We develop scalable data and AI systems for intelligent, sustainable cities.
       user_groups:
         - Principal Investigators
-        - Research Assistants
+        - Researchers
       sort_by: name_family
       sort_ascending: true
       cta:
