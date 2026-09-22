@@ -3,8 +3,17 @@ slug: lorenzo-felletti
 name:
   display: Lorenzo Felletti
 role: Researcher
+user_groups:
+  - Research Assistants
 bio: |
   Lorenzo Felletti received a Master's degree in Computer Engineering from the University of Bologna, Italy, in 2023. His primary research and professional interests are in cloud-native infrastructure, cloud computing, and big data processing.
+links:
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/437/0308.html
+    label: DBLP
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/lorenzo-felletti-a71959142/
+    label: LinkedIn
 interests:
   - Cloud-native infrastructure
   - Cloud computing
