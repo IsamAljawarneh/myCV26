@@ -1,0 +1,39 @@
+<script>
+  (() => {
+    const flags = {
+      "🇯🇴": ["jo", "Jordan"],
+      "🇮🇹": ["it", "Italy"],
+      "🇦🇪": ["ae", "United Arab Emirates"],
+      "🇮🇪": ["ie", "Ireland"]
+    };
+    const pattern = new RegExp(Object.keys(flags).join("|"), "g");
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    const textNodes = [];
+    let node;
+
+    while ((node = walker.nextNode())) {
+      if (pattern.test(node.nodeValue)) textNodes.push(node);
+      pattern.lastIndex = 0;
+    }
+
+    textNodes.forEach((textNode) => {
+      const fragment = document.createDocumentFragment();
+      let lastIndex = 0;
+      textNode.nodeValue.replace(pattern, (flag, offset) => {
+        fragment.append(textNode.nodeValue.slice(lastIndex, offset));
+        const [country, name] = flags[flag];
+        const image = document.createElement("img");
+        image.src = `https://flagcdn.com/20x15/${country}.png`;
+        image.alt = name;
+        image.width = 20;
+        image.height = 15;
+        image.style.cssText = "display:inline-block;width:20px;height:15px;object-fit:cover;vertical-align:-2px;margin:0 2px";
+        fragment.append(image);
+        lastIndex = offset + flag.length;
+        return flag;
+      });
+      fragment.append(textNode.nodeValue.slice(lastIndex));
+      textNode.replaceWith(fragment);
+    });
+  })();
+</script>
