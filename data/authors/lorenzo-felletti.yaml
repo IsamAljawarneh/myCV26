@@ -22,3 +22,7 @@ education:
   - degree: Master's degree in Computer Engineering
     institution: University of Bologna
     end: 2023-12-31
+experience:
+  - role: SysDev
+    org: Amazon
+    location: Dublin, Ireland
