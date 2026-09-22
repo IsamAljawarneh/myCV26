@@ -9,6 +9,16 @@ bio: |
   Paolo Bellavista received the Ph.D. degree in computer science engineering from the University of Bologna, Italy, where he is currently a Full Professor of Mobile Systems. His research activities span from pervasive wireless computing to edge cloud computing, from digital twins for Industry 4.0 to high-performance middleware for distributed AI. He serves on several Editorial Boards, including IEEE COMST (AEiC), ACM CSUR, and IEEE TNSM.
 affiliations:
   - name: University of Bologna
+links:
+  - icon: hero/home
+    url: https://www.unibo.it/sitoweb/paolo.bellavista/en
+    label: Homepage
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=vVSZ4rUAAAAJ&hl=it
+    label: Google Scholar
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/paolobellavista/
+    label: LinkedIn
 interests:
   - Pervasive wireless computing
   - Edge cloud computing
