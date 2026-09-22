@@ -40,6 +40,9 @@ links:
     url: https://github.com/IsamAljawarneh
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/isam-al-jawarneh-9b9268b8/
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/205/5499.html
+    label: DBLP
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en
   - icon: academicons/orcid
