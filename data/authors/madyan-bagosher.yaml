@@ -1,8 +1,9 @@
 schema: hugoblox/author/v1
 slug: madyan-bagosher
 name:
-  display: Madyan Bagosher
+  display: Madyan Omar Bagosher
   given: Madyan
+  middle: Omar
   family: Bagosher
 role: Research Assistant
 user_groups:
