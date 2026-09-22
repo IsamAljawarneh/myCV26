@@ -1,0 +1,15 @@
+schema: hugoblox/author/v1
+slug: lorenzo-felletti
+name:
+  display: Lorenzo Felletti
+role: Researcher
+bio: |
+  Lorenzo Felletti received a Master's degree in Computer Engineering from the University of Bologna, Italy, in 2023. His primary research and professional interests are in cloud-native infrastructure, cloud computing, and big data processing.
+interests:
+  - Cloud-native infrastructure
+  - Cloud computing
+  - Big data processing
+education:
+  - degree: Master's degree in Computer Engineering
+    institution: University of Bologna
+    end: 2023-12-31
