@@ -43,7 +43,7 @@ sections:
       subtitle: Geospatial AI, Big Data & Cloud Systems
       text: We develop scalable data and AI systems for intelligent, sustainable cities.
       user_groups:
-        - Principal Investigators
+        - Principal Investigators (faculty)
         - Researchers
       sort_by: name_family
       sort_ascending: true
