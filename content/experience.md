@@ -59,7 +59,7 @@ sections:
       username: isam-mashhour-al-jawarneh
   - block: resume-awards
     content:
-      title: Awards
+      title: Awards & Fellowships
       username: isam-mashhour-al-jawarneh
   - block: resume-languages
     content:
