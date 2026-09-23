@@ -22,6 +22,40 @@ keywords:
     animation: syllabus-note-flash 3s ease-in-out infinite;
   }
 
+  main .prose:has(h3) {
+    position: relative;
+  }
+
+  main .prose:has(h3)::before {
+    position: absolute;
+    top: 0.75rem;
+    bottom: 0;
+    left: 0.45rem;
+    width: 2px;
+    background: #d1d5db;
+    content: '';
+  }
+
+  main .prose:has(h3) h3 {
+    position: relative;
+    margin-left: 1.5rem;
+    padding: 0.65rem 0 0.65rem 1rem;
+  }
+
+  main .prose:has(h3) h3::before {
+    position: absolute;
+    top: 50%;
+    left: -1.5rem;
+    width: 0.75rem;
+    height: 0.75rem;
+    border: 3px solid white;
+    border-radius: 999px;
+    background: #16a34a;
+    box-shadow: 0 0 0 2px #16a34a;
+    content: '';
+    transform: translateY(-50%);
+  }
+
 </style>
 Levels: Undergraduate (UG) and Postgraduate (PG)
 
