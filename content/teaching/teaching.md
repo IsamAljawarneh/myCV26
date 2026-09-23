@@ -18,8 +18,8 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 | Course | Level | Semesters | Notes |
 |--------|-------|-----------|-------|
-| {{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}} | UG | Fall 2024/2025; Fall 2025/2026 | |
-| {{< staticref "uploads/syllabi/1501564_Foundations_of_Data_Science.pdf" "newtab" >}}Foundations of Data Science{{< /staticref >}} | PG | Spring 2022/2023; Spring 2023/2024; Spring 2024/2025 | Developed the course and designed the materials from scratch for the Data Science master's degree program. |
+| {{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}} | PG (MSc) | Fall 2024/2025; Fall 2025/2026 | |
+| {{< staticref "uploads/syllabi/1501564_Foundations_of_Data_Science.pdf" "newtab" >}}Foundations of Data Science{{< /staticref >}} | PG (MSc) | Spring 2022/2023; Spring 2023/2024; Spring 2024/2025 | Developed the course and designed the materials from scratch for the Data Science master's degree program. |
 | {{< staticref "uploads/syllabi/1501211_Programming_II.pdf" "newtab" >}}Programming II{{< /staticref >}} | UG | Fall 2025/2026 | |
 | {{< staticref "uploads/syllabi/1501247_Multimedia_Programming_and_Design.pdf" "newtab" >}}Multimedia Design and Programming{{< /staticref >}} | UG | Fall 2023/2024; Fall 2024/2025 | |
 | {{< staticref "uploads/syllabi/1501361_Object_Oriented_Software_Design_and_Implementation.pdf" "newtab" >}}Object-Oriented Software Design and Implementation{{< /staticref >}} | UG | Fall 2024/2025 | |
@@ -45,7 +45,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 | Course | Level | Notes |
 |--------|-------|-------|
-| 37085 - Principles, Models and Applications for Distributed Systems M - LAB | PG | Redesigned the course laboratory materials. |
+| 37085 - Principles, Models and Applications for Distributed Systems M - LAB | PG (MSc) | Redesigned the course laboratory materials. |
 
 ### 2009 - 2016: University Lecturer
 
