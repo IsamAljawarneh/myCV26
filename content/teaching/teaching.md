@@ -8,16 +8,8 @@ keywords:
   - Mentoring
 ---
 
+
 ## Teaching Experience
-
-Levels: Undergraduate (UG) and Postgraduate (PG)
-
-### 2022 - Present: Assistant Professor
-
-{{< spoiler text="Open to see list of courses" >}}
-
-**University of Sharjah, UAE**
-
 <style>
   @keyframes syllabus-note-flash {
     0%, 100% { opacity: 1; }
@@ -30,7 +22,18 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
     animation: syllabus-note-flash 3s ease-in-out infinite;
   }
 </style>
+Levels: Undergraduate (UG) and Postgraduate (PG)
+
 <p class="syllabus-note">Click a course title to read the syllabus.</p>
+
+### 2022 - Present: Assistant Professor
+
+{{< spoiler text="Open to see list of courses" >}}
+
+**University of Sharjah, UAE**
+
+
+
 
 | Course | Level | Semesters | Notes |
 |--------|-------|-----------|-------|
