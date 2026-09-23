@@ -77,6 +77,13 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 **University of Business and Technology, Saudi Arabia**
 
+<style>
+  .ubt-course-list summary {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+</style>
+<div class="ubt-course-list">
 {{< spoiler text="Open to see list of courses" >}}
 | Course | Level |
 |--------|-------|
@@ -87,6 +94,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 | IT251 - Software Engineering 1 | UG |
 | IT499 - Graduation Project | UG |
 {{< /spoiler >}}
+</div>
 ---
 
 ### Mentoring
