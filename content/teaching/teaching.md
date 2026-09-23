@@ -18,18 +18,18 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 | Course | Level | Semesters | Notes |
 |--------|-------|-----------|-------|
-| [GIS Programming Fundamentals](../uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf) | UG | Fall 2024/2025; Fall 2025/2026 | |
-| [Foundations of Data Science](../uploads/syllabi/1501564_Foundations_of_Data_Science.pdf) | PG | Spring 2022/2023; Spring 2023/2024; Spring 2024/2025 | Developed the course and designed the materials from scratch for the Data Science master's degree program. |
-| [Programming II](../uploads/syllabi/1501211_Programming_II.pdf) | UG | Fall 2025/2026 | |
-| [Multimedia Design and Programming](../uploads/syllabi/1501247_Multimedia_Programming_and_Design.pdf) | UG | Fall 2023/2024; Fall 2024/2025 | |
-| [Object-Oriented Software Design and Implementation](../uploads/syllabi/1501361_Object_Oriented_Software_Design_and_Implementation.pdf) | UG | Fall 2024/2025 | |
-| [Junior Project](../uploads/syllabi/1501393_Multimedia_Junior_Project.pdf) | UG | Spring 2022/2023; Spring 2023/2024 | |
-| [Senior Project](../uploads/syllabi/1501394_Junior_Project_in_CS.pdf) | UG | Fall 2022/2023; Fall 2023/2024 | |
+| {{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}} | UG | Fall 2024/2025; Fall 2025/2026 | |
+| {{< staticref "uploads/syllabi/1501564_Foundations_of_Data_Science.pdf" "newtab" >}}Foundations of Data Science{{< /staticref >}} | PG | Spring 2022/2023; Spring 2023/2024; Spring 2024/2025 | Developed the course and designed the materials from scratch for the Data Science master's degree program. |
+| {{< staticref "uploads/syllabi/1501211_Programming_II.pdf" "newtab" >}}Programming II{{< /staticref >}} | UG | Fall 2025/2026 | |
+| {{< staticref "uploads/syllabi/1501247_Multimedia_Programming_and_Design.pdf" "newtab" >}}Multimedia Design and Programming{{< /staticref >}} | UG | Fall 2023/2024; Fall 2024/2025 | |
+| {{< staticref "uploads/syllabi/1501361_Object_Oriented_Software_Design_and_Implementation.pdf" "newtab" >}}Object-Oriented Software Design and Implementation{{< /staticref >}} | UG | Fall 2024/2025 | |
+| {{< staticref "uploads/syllabi/1501393_Multimedia_Junior_Project.pdf" "newtab" >}}Junior Project{{< /staticref >}} | UG | Spring 2022/2023; Spring 2023/2024 | |
+| {{< staticref "uploads/syllabi/1501394_Junior_Project_in_CS.pdf" "newtab" >}}Senior Project{{< /staticref >}} | UG | Fall 2022/2023; Fall 2023/2024 | |
 | Introduction to IT | UG | Summer 2023, 2024, 2025 | |
-| [Introduction to AI](../uploads/syllabi/1501330_Introduction_to_Artificial_Intelligence.pdf) | UG | Fall 2026/2027 | |
+| {{< staticref "uploads/syllabi/1501330_Introduction_to_Artificial_Intelligence.pdf" "newtab" >}}Introduction to AI{{< /staticref >}} | UG | Fall 2026/2027 | |
 | Programming for Engineers | UG | Fall 2022/2023; Fall 2023/2024 | |
 | Web Programming | UG | Fall 2022/2023; Fall 2023/2024 | Updated the course materials. |
-| [Development of Web Applications](../uploads/syllabi/1501465_Development_of_Web_Applications.pdf) | UG | Fall 2022/2023; Fall 2023/2024; Fall 2024/2025; Fall 2025/2026 | Updated the course materials. |
+| {{< staticref "uploads/syllabi/1501465_Development_of_Web_Applications.pdf" "newtab" >}}Development of Web Applications{{< /staticref >}} | UG | Fall 2022/2023; Fall 2023/2024; Fall 2024/2025; Fall 2025/2026 | Updated the course materials. |
 
 ### 2021/2022: Postdoctoral Research Fellow
 
