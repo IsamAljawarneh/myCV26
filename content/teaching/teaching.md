@@ -14,6 +14,8 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 ### 2022 - Present: Assistant Professor
 
+{{< spoiler text="Open to see list of courses" >}}
+
 **University of Sharjah, UAE**
 
 <p style="color: green; font-family: Helvetica, monospace;">Click a course title to read the syllabus.</p>
@@ -33,26 +35,31 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 | Web Programming | UG | Fall 2022/2023; Fall 2023/2024 | Updated the course materials. |
 | {{< staticref "uploads/syllabi/1501465_Development_of_Web_Applications.pdf" "newtab" >}}Development of Web Applications{{< /staticref >}} | UG | Fall 2022/2023; Fall 2023/2024; Fall 2024/2025; Fall 2025/2026 | Updated the course materials. |
 
+{{< /spoiler >}}
+
+
 ### 2021/2022: Postdoctoral Research Fellow
 
 **University of Bologna, Italy**
+{{< spoiler text="Open to see list of courses" >}}
 
 | Course | Level | Notes | Website |
 |--------|-------|-------|---------|
 | Designing Distributed Geospatial Data-Intensive Applications | PG (PhD) | Designed the course and created the course materials. | [Course page]({{< relref "PhD_course_2022" >}}) |
 
+{{< /spoiler >}}
 ### 2017/2018: Teaching Assistant
 
 **University of Bologna, Italy**
-
+{{< spoiler text="Open to see list of courses" >}}
 | Course | Level | Notes |
 |--------|-------|-------|
 | 37085 - Principles, Models and Applications for Distributed Systems M - LAB | PG (MSc) | Redesigned the course laboratory materials. |
-
+{{< /spoiler >}}
 ### 2009 - 2016: University Lecturer
 
 **University of Business and Technology, Saudi Arabia**
-
+{{< spoiler text="Open to see list of courses" >}}
 | Course | Level |
 |--------|-------|
 | COE 201 - Computer Programming 1 | UG |
@@ -61,7 +68,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 | IT240 - Databases 1 | UG |
 | IT251 - Software Engineering 1 | UG |
 | IT499 - Graduation Project | UG |
-
+{{< /spoiler >}}
 ---
 
 ## Mentoring
