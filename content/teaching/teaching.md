@@ -16,6 +16,8 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 **University of Sharjah, UAE**
 
+<p style="color: green; font-family: Helvetica, monospace;">Click a course title to read the syllabus.</p>
+
 | Course | Level | Semesters | Notes |
 |--------|-------|-----------|-------|
 | {{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}} | PG (MSc) | Fall 2024/2025; Fall 2025/2026 | |
