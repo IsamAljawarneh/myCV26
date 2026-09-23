@@ -76,6 +76,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 ### 2009 - 2016: University Lecturer
 
 **University of Business and Technology, Saudi Arabia**
+
 {{< spoiler text="Open to see list of courses" >}}
 | Course | Level |
 |--------|-------|
@@ -88,16 +89,16 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 {{< /spoiler >}}
 ---
 
-## Mentoring
+### Mentoring
 
-### Current Students
+#### Current Students
 
 | Name | Program | Topic |
 |------|---------|-------|
 | Alice Smith | Ph.D. | Machine learning for scientific discovery |
 | Bob Johnson | M.S. | Cloud computing optimization |
 
-### Past Students
+#### Past Students
 
 {{< spoiler text="Graduated" >}}
 
