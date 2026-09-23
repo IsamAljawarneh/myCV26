@@ -56,6 +56,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 |--------|-------|-------|
 | 37085 - Principles, Models and Applications for Distributed Systems M - LAB | PG (MSc) | Redesigned the course laboratory materials. |
 {{< /spoiler >}}
+
 ### 2009 - 2016: University Lecturer
 
 **University of Business and Technology, Saudi Arabia**
