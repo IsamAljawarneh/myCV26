@@ -39,7 +39,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 | Course | Level | Notes | Website |
 |--------|-------|-------|---------|
-| Designing Distributed Geospatial Data-Intensive Applications | PG (PhD) | Designed the course and created the course materials. | [Course page](../PhD_course_2022/) |
+| Designing Distributed Geospatial Data-Intensive Applications | PG (PhD) | Designed the course and created the course materials. | [Course page]({{< relref "PhD_course_2022" >}}) |
 
 ### 2017/2018: Teaching Assistant
 
