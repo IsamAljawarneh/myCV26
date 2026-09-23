@@ -63,6 +63,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 | Designing Distributed Geospatial Data-Intensive Applications | PG (PhD) | Designed the course and created the course materials. | [Course page]({{< relref "PhD_course_2022" >}}) |
 
 {{< /spoiler >}}
+
 ### 2017/2018: Teaching Assistant
 
 **University of Bologna, Italy**
