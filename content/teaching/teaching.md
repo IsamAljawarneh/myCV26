@@ -18,7 +18,19 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 **University of Sharjah, UAE**
 
-<p style="color: green; font-family: Helvetica, monospace;">Click a course title to read the syllabus.</p>
+<style>
+  @keyframes syllabus-note-flash {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+
+  .syllabus-note {
+    color: green;
+    font-family: Helvetica, monospace;
+    animation: syllabus-note-flash 3s ease-in-out infinite;
+  }
+</style>
+<p class="syllabus-note">Click a course title to read the syllabus.</p>
 
 | Course | Level | Semesters | Notes |
 |--------|-------|-----------|-------|
