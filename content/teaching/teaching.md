@@ -21,6 +21,13 @@ keywords:
     font-family: Helvetica, monospace;
     animation: syllabus-note-flash 3s ease-in-out infinite;
   }
+
+  table th:nth-child(2),
+  table td:nth-child(2),
+  table th:nth-child(3),
+  table td:nth-child(3) {
+    white-space: nowrap;
+  }
 </style>
 Levels: Undergraduate (UG) and Postgraduate (PG)
 
