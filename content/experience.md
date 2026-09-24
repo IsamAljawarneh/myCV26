@@ -13,7 +13,7 @@ sections:
   - block: markdown
     content:
       text: |-
-        <p class="text-center">Full Resume in <a href="/uploads/resume.pdf" target="_blank" rel="noopener">PDF</a>.</p>
+        <p class="text-center">Full Resume in {{< staticref "uploads/resume.pdf" "newtab" >}}PDF{{< /staticref >}}.</p>
     design:
       columns: '1'
   - block: markdown
