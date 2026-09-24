@@ -11,7 +11,13 @@
   }
 
   .experience-timeline::before {
-    background: var(--timeline-line);
+    background: linear-gradient(
+      to bottom,
+      transparent 0%,
+      var(--timeline-line) 12%,
+      var(--timeline-line) 88%,
+      transparent 100%
+    );
     content: "";
     left: 50%;
     position: absolute;
@@ -76,11 +82,11 @@
   }
 
   .experience-timeline__title {
-    background: var(--color-surface, #fff);
+    background: #f3f4f6;
     border: 1px solid #e5e7eb;
     border-radius: 0.45rem;
     box-shadow: 0 2px 5px rgb(15 23 42 / 0.06);
-    font-size: 1.05rem;
+    font-size: 0.95rem;
     font-weight: 700;
     margin: 0;
     padding: 0.35rem 0.7rem;
