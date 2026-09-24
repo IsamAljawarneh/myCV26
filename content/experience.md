@@ -12,6 +12,12 @@ design:
 sections:
   - block: markdown
     content:
+      text: |-
+        <p class="text-center">Full Resume in <a href="/uploads/resume.pdf" target="_blank" rel="noopener">PDF</a>.</p>
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: Experience
       text: |-
         {{< experience-timeline >}}
