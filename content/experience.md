@@ -10,14 +10,13 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: markdown
     content:
-      username: isam-mashhour-al-jawarneh
+      title: Experience
+      text: |-
+        {{< experience-timeline >}}
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+      columns: '1'
   - block: markdown
     content:
       title: Professional Training
