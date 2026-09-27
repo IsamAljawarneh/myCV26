@@ -91,8 +91,8 @@ sections:
     content:
       title: 'Publications'
       text: |-
-        <p class="text-center text-5xl md:text-6xl font-normal tracking-tight text-gray-900 dark:text-white">Most recent publications on <a href="https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en" class="text-sky-500 hover:text-sky-600">Google Scholar</a>.</p>
-        <p class="text-center text-2xl md:text-3xl font-normal text-gray-700 dark:text-gray-200 mt-4">* indicates equal contribution.</p>
+        <p class="text-center text-3xl md:text-4xl font-normal tracking-tight text-gray-900 dark:text-white">Most recent publications on <a href="https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en" class="text-sky-500 hover:text-sky-600">Google Scholar</a>.</p>
+        <p class="text-center text-lg md:text-xl font-normal text-gray-700 dark:text-gray-200 mt-4">* indicates equal contribution.</p>
         <div class="mt-8 flex flex-wrap justify-center gap-6">
           <a href="#selected-publications" class="inline-flex items-center justify-center min-w-[180px] rounded-xl border border-gray-400 bg-transparent px-8 py-4 text-2xl font-medium uppercase tracking-wide text-gray-900 transition hover:border-gray-600 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-800">Selected</a>
           <a href="#all-publications" class="inline-flex items-center justify-center min-w-[180px] rounded-xl border border-gray-400 bg-transparent px-8 py-4 text-2xl font-medium uppercase tracking-wide text-gray-900 transition hover:border-gray-600 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-800">All</a>
