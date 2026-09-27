@@ -30,22 +30,27 @@ keywords:
     position: absolute;
     top: 0.75rem;
     bottom: 0;
-    left: 0.45rem;
+    left: 50%;
     width: 2px;
     background: #d1d5db;
     content: '';
+    transform: translateX(-50%);
   }
 
   main .prose:has(h3) h3 {
     position: relative;
-    margin-left: 1.5rem;
-    padding: 0.65rem 0 0.65rem 1rem;
+    box-sizing: border-box;
+    width: 50%;
+    margin: 0;
+    padding: 0.65rem 2rem 0.65rem 0;
+    font-size: 1.65rem;
+    line-height: 1.25;
   }
 
   main .prose:has(h3) h3::before {
     position: absolute;
     top: 50%;
-    left: -1.5rem;
+    right: -0.45rem;
     width: 0.75rem;
     height: 0.75rem;
     border: 3px solid white;
@@ -54,6 +59,38 @@ keywords:
     box-shadow: 0 0 0 2px #16a34a;
     content: '';
     transform: translateY(-50%);
+  }
+
+  main .prose:has(h3) h3:nth-of-type(even) {
+    margin-left: 50%;
+    padding-right: 0;
+    padding-left: 2rem;
+  }
+
+  main .prose:has(h3) h3:nth-of-type(even)::before {
+    right: auto;
+    left: -0.45rem;
+  }
+
+  @media (max-width: 640px) {
+    main .prose:has(h3)::before {
+      left: 0.45rem;
+      transform: none;
+    }
+
+    main .prose:has(h3) h3,
+    main .prose:has(h3) h3:nth-of-type(even) {
+      width: auto;
+      margin-left: 1.5rem;
+      padding: 0.65rem 0 0.65rem 1rem;
+      font-size: 1.35rem;
+    }
+
+    main .prose:has(h3) h3::before,
+    main .prose:has(h3) h3:nth-of-type(even)::before {
+      right: auto;
+      left: -1.5rem;
+    }
   }
 
   .teaching-table-wrap {
