@@ -18,15 +18,17 @@ role: "Assistant Professor of Computer Science and Engineering · 🇯🇴 🇮�
 user_groups:
   - Principal Investigators (faculty)
 bio: |
-  Isam Mashhour Al Jawarneh is an Assistant Professor of [Computer Science and Engineering](https://www.sharjah.ac.ae/Academics/College-of-Computing-and-Informatics) at [The University of Sharjah](https://www.sharjah.ac.ae/), where he leads research at the intersection of geospatial data science, big data systems, and AI for smart city analytics. He completed his Ph.D. in Computer Science and Engineering from [The University of Bologna](https://www.unibo.it/en), Italy, in 2020, and was a Postdoctoral Research Fellow there until 2022. Before that, he earned a Master’s degree in Information Technology and a B.Sc. in Computer Science, building a foundation in systems, data engineering, and applied computing.
+  <p>Isam Mashhour Al Jawarneh is an Assistant Professor of <a href="https://www.sharjah.ac.ae/Academics/College-of-Computing-and-Informatics">Computer Science and Engineering</a> at <a href="https://www.sharjah.ac.ae/">The University of Sharjah</a>, where he leads research at the intersection of geospatial data science, big data systems, and AI for smart city analytics. He completed his Ph.D. in Computer Science and Engineering from <a href="https://www.unibo.it/en">The University of Bologna</a>, Italy, in 2020, and was a Postdoctoral Research Fellow there until 2022. Before that, he earned a Master’s degree in Information Technology and a B.Sc. in Computer Science, building a foundation in systems, data engineering, and applied computing.</p>
 
-  His research interests are in Geospatial Data Science, Big Data Management, and Intelligent Urban Analytics. His work aims to design scalable, real-time systems that can process massive spatiotemporal streams while preserving efficiency, accuracy, and decision-making value for cities, institutions, and public-health applications. The research spans three core areas:
+  <p>His research interests are in Geospatial Data Science, Big Data Management, and Intelligent Urban Analytics. His work aims to design scalable, real-time systems that can process massive spatiotemporal streams while preserving efficiency, accuracy, and decision-making value for cities, institutions, and public-health applications. The research spans three core areas:</p>
 
-  - **Geospatial Big Data Management**: building scalable architectures for ingesting, indexing, querying, and analyzing large-scale mobility, environmental, and urban data streams.
-  - **Approximate and QoS-Aware Analytics**: designing adaptive methods that balance accuracy, latency, and computational cost for near-real-time geospatial decision support.
-  - **AI for Smart Cities and Climate Resilience**: developing data-driven approaches that support urban planning, environmental monitoring, and health-aware analytics in complex metropolitan settings.
+  <ul>
+  <li><strong>Geospatial Big Data Management</strong>: building scalable architectures for ingesting, indexing, querying, and analyzing large-scale mobility, environmental, and urban data streams.</li>
+  <li><strong>Approximate and QoS-Aware Analytics</strong>: designing adaptive methods that balance accuracy, latency, and computational cost for near-real-time geospatial decision support.</li>
+  <li><strong>AI for Smart Cities and Climate Resilience</strong>: developing data-driven approaches that support urban planning, environmental monitoring, and health-aware analytics in complex metropolitan settings.</li>
+  </ul>
 
-  He has contributed to research on distributed geospatial processing, cloud/edge analytics, and approximate query systems, with work published in major IEEE venues and applied to real-world smart city and sustainability challenges. We are actively looking for strong and motivated students and collaborators to join this research agenda. If you are interested in working with us, please get in touch and explore recent publications and projects.
+  <p>He has contributed to research on distributed geospatial processing, cloud/edge analytics, and approximate query systems, with work published in major IEEE venues and applied to real-world smart city and sustainability challenges. We are actively looking for strong and motivated students and collaborators to join this research agenda. If you are interested in working with us, please get in touch and explore recent publications and projects.</p>
 
 affiliations:
   - name: University of Sharjah
