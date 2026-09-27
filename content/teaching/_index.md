@@ -1,5 +1,6 @@
 ---
 title: Teaching
+view: none
 description: Courses taught and student mentoring.
 keywords:
   - Teaching
