@@ -18,14 +18,17 @@ role: "Assistant Professor of Computer Science and Engineering · 🇯🇴 🇮�
 user_groups:
   - Principal Investigators (faculty)
 bio: |
-  Dr. Isam Mashhour Al Jawarneh is an Assistant Professor in the Department of Computer Science at the University of Sharjah, UAE, where he leads research at the intersection of geospatial data science, big data systems, and smart city analytics. He earned his Ph.D. in Computer Science and Engineering from the University of Bologna, Italy, in 2020, and served as a Postdoctoral Research Fellow there until 2022. His work centers on scalable, real-time processing of spatiotemporal data
-  streams—developing novel Cloud- and Edge-based architectures, QoS-aware approximate query techniques, 
-  and intelligent data management frameworks for urban and environmental applications. 
-  His research has been published in premier IEEE venues such as GLOBECOM and ICC, 
-  and his contributions—particularly in spatial stream processing and distributed geospatial analytics—are advancing 
-  how cities leverage big data for timely, context-aware decision-making. 
-  Dr. Al Jawarneh also serves on Technical Program Committees for leading IEEE conferences and actively bridges theoretical innovation 
-  with practical deployment in smart infrastructure systems.
+  Dr. Isam Mashhour Al Jawarneh is an Assistant Professor of Computer Science and Engineering at the University of Sharjah, United Arab Emirates, where he leads research at the intersection of geospatial data science, big data systems, and AI for smart city analytics. He completed his Ph.D. in Computer Science and Engineering from the University of Bologna, Italy, in 2020, and was a Postdoctoral Research Fellow there until 2022. He also brings experience from higher education and applied research environments, where he has developed methods that connect large-scale data engineering with impactful urban and environmental decision support.
+
+  His research focuses on scalable, real-time, and context-aware analytics for spatiotemporal and urban data. He works on Cloud- and Edge-based architectures, QoS-aware approximate query processing, distributed stream analytics, and intelligent data management systems for smart infrastructure, environmental monitoring, and public health applications. His work has been published in leading IEEE venues and addresses the growing need for efficient analytics that can support timely decisions in complex, data-intensive urban environments.
+
+  His main research interests span three closely related areas:
+
+  - Geospatial Big Data Management: designing scalable systems for ingesting, indexing, querying, and analyzing large-scale spatial and mobility data streams.
+  - Approximate and QoS-Aware Analytics: developing adaptive methods that balance accuracy, latency, and resource efficiency for near-real-time decision making.
+  - AI for Smart Cities and Environmental Sustainability: building intelligent data-driven frameworks to support urban planning, climate resilience, and public-health-oriented analytics.
+
+  I welcome strong and motivated students and collaborators who are interested in geospatial data science, smart city intelligence, distributed systems, and AI-driven urban analytics. If you are interested in working with me, please get in touch and explore our recent work and ongoing projects.
 
 affiliations:
   - name: University of Sharjah
