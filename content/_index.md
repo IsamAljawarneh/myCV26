@@ -37,6 +37,22 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        Isam Mashhour Al Jawarneh is an Assistant Professor of [Computer Science and Engineering](https://www.sharjah.ac.ae/Academics/College-of-Computing-and-Informatics) at [The University of Sharjah](https://www.sharjah.ac.ae/), where he leads research at the intersection of geospatial data science, big data systems, and AI for smart city analytics. He completed his Ph.D. in Computer Science and Engineering from [The University of Bologna](https://www.unibo.it/en), Italy, in 2020, and was a Postdoctoral Research Fellow there until 2022. Before that, he earned a Master’s degree in Information Technology and a B.Sc. in Computer Science, building a foundation in systems, data engineering, and applied computing.
+
+        His research interests are in Geospatial Data Science, Big Data Management, and Intelligent Urban Analytics. His work aims to design scalable, real-time systems that can process massive spatiotemporal streams while preserving efficiency, accuracy, and decision-making value for cities, institutions, and public-health applications. The research spans three core areas:
+
+        - **Geospatial Big Data Management**: building scalable architectures for ingesting, indexing, querying, and analyzing large-scale mobility, environmental, and urban data streams.
+        - **Approximate and QoS-Aware Analytics**: designing adaptive methods that balance accuracy, latency, and computational cost for near-real-time geospatial decision support.
+        - **AI for Smart Cities and Climate Resilience**: developing data-driven approaches that support urban planning, environmental monitoring, and health-aware analytics in complex metropolitan settings.
+
+        We are actively looking for strong and motivated students and collaborators to join this research agenda. If you are interested in working with us, please get in touch and explore recent publications and projects.
+    design:
+      columns: '1'
   - block: team-showcase
     content:
       title: Meet the team
@@ -60,22 +76,6 @@ sections:
       align: left
       max_columns: 3
       show_empty_groups: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Isam Mashhour Al Jawarneh is an Assistant Professor of [Computer Science and Engineering](https://www.sharjah.ac.ae/Academics/College-of-Computing-and-Informatics) at [The University of Sharjah](https://www.sharjah.ac.ae/), where he leads research at the intersection of geospatial data science, big data systems, and AI for smart city analytics. He completed his Ph.D. in Computer Science and Engineering from [The University of Bologna](https://www.unibo.it/en), Italy, in 2020, and was a Postdoctoral Research Fellow there until 2022. Before that, he earned a Master’s degree in Information Technology and a B.Sc. in Computer Science, building a foundation in systems, data engineering, and applied computing.
-
-        His research interests are in Geospatial Data Science, Big Data Management, and Intelligent Urban Analytics. His work aims to design scalable, real-time systems that can process massive spatiotemporal streams while preserving efficiency, accuracy, and decision-making value for cities, institutions, and public-health applications. The research spans three core areas:
-
-        - **Geospatial Big Data Management**: building scalable architectures for ingesting, indexing, querying, and analyzing large-scale mobility, environmental, and urban data streams.
-        - **Approximate and QoS-Aware Analytics**: designing adaptive methods that balance accuracy, latency, and computational cost for near-real-time geospatial decision support.
-        - **AI for Smart Cities and Climate Resilience**: developing data-driven approaches that support urban planning, environmental monitoring, and health-aware analytics in complex metropolitan settings.
-
-        We are actively looking for strong and motivated students and collaborators to join this research agenda. If you are interested in working with us, please get in touch and explore recent publications and projects.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
