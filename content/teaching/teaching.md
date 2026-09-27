@@ -122,11 +122,11 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 {{< spoiler text="Open to see list of courses" >}}
 | Course | Level |
 |--------|-------|
-| COE 201 - Computer Programming 1 | UG |
-| IT203 - Object-Oriented Computer Programming | UG |
-| IT204 - Data Structures and Algorithms | UG |
-| IT240 - Databases 1 | UG |
-| IT251 - Software Engineering 1 | UG |
+| [COE 201 - Computer Programming 1]({{< relref "IT201" >}}) | UG |
+| [IT203 - Object-Oriented Computer Programming]({{< relref "IT203" >}}) | UG |
+| [IT204 - Data Structures and Algorithms]({{< relref "IT204" >}}) | UG |
+| [IT240 - Databases 1]({{< relref "IT240" >}}) | UG |
+| [IT251 - Software Engineering 1]({{< relref "IT251" >}}) | UG |
 | IT499 - Graduation Project | UG |
 {{< /spoiler >}}
 </div>
