@@ -113,9 +113,9 @@ keywords:
 
   main .prose:has(h3) h3:nth-of-type(even) + details > summary,
   main .prose:has(h3) h3:nth-of-type(even) + p + details > summary {
-    margin-left: 50%;
-    padding-right: 0;
-    padding-left: 2rem;
+    margin-left: 0;
+    padding-right: 2rem;
+    padding-left: 0;
   }
 
   main .prose:has(h3) .ubt-course-list {
@@ -331,20 +331,20 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 **University of Bologna, Italy**
 {{< spoiler text="Open to see list of courses" >}}
-
-| Course | Level | Notes | Website |
-|--------|-------|-------|---------|
-| Designing Distributed Geospatial Data-Intensive Applications | PG (PhD) | Designed the course and created the course materials. | [Course page]({{< relref "PhD_course_2022" >}}) |
-
+<div class="teaching-course-list">
+<h4 class="teaching-course-term">University of Bologna</h4>
+<article class="teaching-course-entry"><div class="teaching-course-code">PhD</div><div><h5 class="teaching-course-name"><a href="{{< relref "PhD_course_2022" >}}">Designing Distributed Geospatial Data-Intensive Applications</a></h5><p class="teaching-course-meta"><em>Postgraduate (PhD); 2021/2022.</em></p><p class="teaching-course-note">Designed the course and created the course materials.</p></div></article>
+</div>
 {{< /spoiler >}}
 
 ### 2017/2018: Teaching Assistant
 
 **University of Bologna, Italy**
 {{< spoiler text="Open to see list of courses" >}}
-| Course | Level | Notes |
-|--------|-------|-------|
-| 37085 - Principles, Models and Applications for Distributed Systems M - LAB | PG (MSc) | Redesigned the course laboratory materials. |
+<div class="teaching-course-list">
+<h4 class="teaching-course-term">University of Bologna</h4>
+<article class="teaching-course-entry"><div class="teaching-course-code">37085</div><div><h5 class="teaching-course-name">Principles, Models and Applications for Distributed Systems M - LAB</h5><p class="teaching-course-meta"><em>Postgraduate (MSc); 2017/2018.</em></p><p class="teaching-course-note">Redesigned the course laboratory materials.</p></div></article>
+</div>
 {{< /spoiler >}}
 
 ### 2009 - 2016: University Lecturer
@@ -359,17 +359,17 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 </style>
 <div class="ubt-course-list">
 {{< spoiler text="Open to see list of courses" >}}
-| Course | Level |
-|--------|-------|
-| [COE 201 - Computer Programming 1]({{< relref "IT201" >}}) | UG |
-| [IT203 - Object-Oriented Computer Programming]({{< relref "IT203" >}}) | UG |
-| [IT204 - Data Structures and Algorithms]({{< relref "IT204" >}}) | UG |
-| [IT240 - Databases 1]({{< relref "IT240" >}}) | UG |
-| [IT251 - Software Engineering 1]({{< relref "IT251" >}}) | UG |
-| IT499 - Graduation Project | UG |
+<div class="teaching-course-list">
+<h4 class="teaching-course-term">University of Business and Technology</h4>
+<article class="teaching-course-entry"><div class="teaching-course-code">COE 201</div><div><h5 class="teaching-course-name"><a href="{{< relref "IT201" >}}">Computer Programming 1</a></h5><p class="teaching-course-meta"><em>Undergraduate; 2009 - 2016.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">IT203</div><div><h5 class="teaching-course-name"><a href="{{< relref "IT203" >}}">Object-Oriented Computer Programming</a></h5><p class="teaching-course-meta"><em>Undergraduate; 2009 - 2016.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">IT204</div><div><h5 class="teaching-course-name"><a href="{{< relref "IT204" >}}">Data Structures and Algorithms</a></h5><p class="teaching-course-meta"><em>Undergraduate; 2009 - 2016.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">IT240</div><div><h5 class="teaching-course-name"><a href="{{< relref "IT240" >}}">Databases 1</a></h5><p class="teaching-course-meta"><em>Undergraduate; 2009 - 2016.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">IT251</div><div><h5 class="teaching-course-name"><a href="{{< relref "IT251" >}}">Software Engineering 1</a></h5><p class="teaching-course-meta"><em>Undergraduate; 2009 - 2016.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">IT499</div><div><h5 class="teaching-course-name">Graduation Project</h5><p class="teaching-course-meta"><em>Undergraduate; 2009 - 2016.</em></p></div></article>
+</div>
 {{< /spoiler >}}
 </div>
----
 
 ### Mentoring
 
