@@ -235,6 +235,57 @@ keywords:
     text-underline-offset: 0.15em;
   }
 
+  .teaching-course-list {
+    margin: 1.5rem 0 2.5rem;
+  }
+
+  .teaching-course-term {
+    border-bottom: 1px solid #9db4c8;
+    color: #2d617f;
+    font-size: 1.15rem;
+    letter-spacing: 0.28em;
+    margin: 0 0 1.5rem;
+    padding-bottom: 0.75rem;
+    text-transform: uppercase;
+  }
+
+  .teaching-course-entry {
+    border-bottom: 1px solid #d1dbe4;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 9rem 1fr;
+    padding: 1.5rem 0;
+  }
+
+  .teaching-course-code {
+    color: #315b77;
+    font-size: 1.1rem;
+  }
+
+  .teaching-course-name {
+    font-size: 1.5rem;
+    line-height: 1.25;
+    margin: 0;
+  }
+
+  .teaching-course-name a {
+    text-decoration: underline;
+    text-underline-offset: 0.12em;
+  }
+
+  .teaching-course-meta {
+    color: #64748b;
+    font-size: 1.1rem;
+    line-height: 1.45;
+    margin: 0.35rem 0 0;
+  }
+
+  .teaching-course-note {
+    color: #475569;
+    font-size: 0.95rem;
+    margin: 0.5rem 0 0;
+  }
+
   @media (max-width: 640px) {
     .teaching-course-table {
       min-width: 42rem;
@@ -257,26 +308,20 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 **University of Sharjah, UAE**
 
-<div class="teaching-table-wrap">
-<table class="teaching-course-table">
-<thead>
-<tr><th scope="col">Course</th><th scope="col">Level</th><th scope="col">Semesters</th><th scope="col">Notes</th></tr>
-</thead>
-<tbody>
-<tr><td>{{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}}</td><td>PG (MSc)</td><td>Fall 2024/2025;<br>Fall 2025/2026</td><td></td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501564_Foundations_of_Data_Science.pdf" "newtab" >}}Foundations of Data Science{{< /staticref >}}</td><td>PG (MSc)</td><td>Spring 2022/2023;<br>Spring 2023/2024;<br>Spring 2024/2025</td><td>Developed the course and designed the materials from scratch for the Data Science master's degree program.</td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501211_Programming_II.pdf" "newtab" >}}Programming II{{< /staticref >}}</td><td>UG</td><td>Fall 2025/2026</td><td></td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501247_Multimedia_Programming_and_Design.pdf" "newtab" >}}Multimedia Design and Programming{{< /staticref >}}</td><td>UG</td><td>Fall 2023/2024;<br>Fall 2024/2025</td><td></td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501361_Object_Oriented_Software_Design_and_Implementation.pdf" "newtab" >}}Object-Oriented Software Design and Implementation{{< /staticref >}}</td><td>UG</td><td>Fall 2024/2025</td><td></td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501393_Multimedia_Junior_Project.pdf" "newtab" >}}Junior Project{{< /staticref >}}</td><td>UG</td><td>Spring 2022/2023;<br>Spring 2023/2024</td><td></td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501394_Junior_Project_in_CS.pdf" "newtab" >}}Senior Project{{< /staticref >}}</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024</td><td></td></tr>
-<tr><td>Introduction to IT</td><td>UG</td><td>Summer 2023, 2024, 2025</td><td></td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501330_Introduction_to_Artificial_Intelligence.pdf" "newtab" >}}Introduction to AI{{< /staticref >}}</td><td>UG</td><td>Fall 2026/2027</td><td></td></tr>
-<tr><td>Programming for Engineers</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024</td><td></td></tr>
-<tr><td>Web Programming</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024</td><td>Updated the course materials.</td></tr>
-<tr><td>{{< staticref "uploads/syllabi/1501465_Development_of_Web_Applications.pdf" "newtab" >}}Development of Web Applications{{< /staticref >}}</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024;<br>Fall 2024/2025;<br>Fall 2025/2026</td><td>Updated the course materials.</td></tr>
-</tbody>
-</table>
+<div class="teaching-course-list">
+<h4 class="teaching-course-term">University of Sharjah</h4>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501330</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501330_Introduction_to_Artificial_Intelligence.pdf" "newtab" >}}Introduction to AI{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2026/2027.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501211</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501211_Programming_II.pdf" "newtab" >}}Programming II{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2025/2026.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501532</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Postgraduate (MSc); Fall 2024/2025 and Fall 2025/2026.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501361</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501361_Object_Oriented_Software_Design_and_Implementation.pdf" "newtab" >}}Object-Oriented Software Design and Implementation{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2024/2025.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501247</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501247_Multimedia_Programming_and_Design.pdf" "newtab" >}}Multimedia Design and Programming{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2023/2024 and Fall 2024/2025.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501465</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501465_Development_of_Web_Applications.pdf" "newtab" >}}Development of Web Applications{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2022/2023, Fall 2023/2024, Fall 2024/2025, and Fall 2025/2026.</em></p><p class="teaching-course-note">Updated the course materials.</p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501394</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501394_Junior_Project_in_CS.pdf" "newtab" >}}Senior Project{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2022/2023 and Fall 2023/2024.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">N/A</div><div><h5 class="teaching-course-name">Web Programming</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2022/2023 and Fall 2023/2024.</em></p><p class="teaching-course-note">Updated the course materials.</p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">N/A</div><div><h5 class="teaching-course-name">Programming for Engineers</h5><p class="teaching-course-meta"><em>Undergraduate; Fall 2022/2023 and Fall 2023/2024.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501393</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501393_Multimedia_Junior_Project.pdf" "newtab" >}}Junior Project{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Undergraduate; Spring 2022/2023 and Spring 2023/2024.</em></p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">1501564</div><div><h5 class="teaching-course-name">{{< staticref "uploads/syllabi/1501564_Foundations_of_Data_Science.pdf" "newtab" >}}Foundations of Data Science{{< /staticref >}}</h5><p class="teaching-course-meta"><em>Postgraduate (MSc); Spring 2022/2023, Spring 2023/2024, and Spring 2024/2025.</em></p><p class="teaching-course-note">Developed the course and designed the materials from scratch for the Data Science master's degree program.</p></div></article>
+<article class="teaching-course-entry"><div class="teaching-course-code">N/A</div><div><h5 class="teaching-course-name">Introduction to IT</h5><p class="teaching-course-meta"><em>Undergraduate; Summer 2023, 2024, and 2025.</em></p></div></article>
 </div>
 
 {{< /spoiler >}}
