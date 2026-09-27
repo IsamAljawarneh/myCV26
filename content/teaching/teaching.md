@@ -90,6 +90,13 @@ keywords:
     padding-left: 2rem;
   }
 
+  main .prose:has(h3) .ubt-course-list {
+    box-sizing: border-box;
+    width: 50%;
+    margin-left: 50%;
+    padding-left: 2rem;
+  }
+
   @media (max-width: 640px) {
     main .prose:has(h3)::before {
       left: 0.45rem;
@@ -119,6 +126,12 @@ keywords:
       width: auto;
       margin-left: 1.5rem;
       padding-right: 0;
+      padding-left: 1rem;
+    }
+
+    main .prose:has(h3) .ubt-course-list {
+      width: auto;
+      margin-left: 1.5rem;
       padding-left: 1rem;
     }
   }
