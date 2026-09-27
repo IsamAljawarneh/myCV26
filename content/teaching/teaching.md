@@ -97,6 +97,44 @@ keywords:
     padding-left: 2rem;
   }
 
+  main .prose:has(h3) h3 + details,
+  main .prose:has(h3) h3 + p + details {
+    width: 100%;
+    margin-left: 0;
+    padding: 0;
+  }
+
+  main .prose:has(h3) h3 + details > summary,
+  main .prose:has(h3) h3 + p + details > summary {
+    box-sizing: border-box;
+    width: 50%;
+    padding-right: 2rem;
+  }
+
+  main .prose:has(h3) h3:nth-of-type(even) + details > summary,
+  main .prose:has(h3) h3:nth-of-type(even) + p + details > summary {
+    margin-left: 50%;
+    padding-right: 0;
+    padding-left: 2rem;
+  }
+
+  main .prose:has(h3) .ubt-course-list {
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  main .prose:has(h3) .ubt-course-list details > summary {
+    box-sizing: border-box;
+    width: 50%;
+    margin-left: 50%;
+    padding-left: 2rem;
+  }
+
+  main .prose:has(h3) details[open] > :not(summary) {
+    max-width: none;
+  }
+
   @media (max-width: 640px) {
     main .prose:has(h3)::before {
       left: 0.45rem;
@@ -133,6 +171,23 @@ keywords:
       width: auto;
       margin-left: 1.5rem;
       padding-left: 1rem;
+    }
+
+    main .prose:has(h3) h3 + details,
+    main .prose:has(h3) h3 + p + details,
+    main .prose:has(h3) .ubt-course-list {
+      width: auto;
+      margin-left: 1.5rem;
+      padding-left: 1rem;
+    }
+
+    main .prose:has(h3) h3 + details > summary,
+    main .prose:has(h3) h3 + p + details > summary,
+    main .prose:has(h3) .ubt-course-list details > summary {
+      width: auto;
+      margin-left: 0;
+      padding-right: 0;
+      padding-left: 0;
     }
   }
 
