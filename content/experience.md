@@ -87,6 +87,7 @@ sections:
         <p>Fund source: <a href="https://www.ubt.edu.sa/About/Home">University of Business and Technology</a></p>
         <p>Project title: <em>a data warehouse for decision support at higher education</em></p>
         <p>Role: <strong>PI</strong><br>Period: 02/01/2015 - 12/30/2015<br>Amount: ~$8000</p>
+        <p>The project developed a higher-education data warehouse framework to support strategic planning and decision-making using real student data. It tailored warehouse design methods to university needs and showed how BI-driven analytics can improve institutional policy and planning.</p>
         </details>
         </div>
     design:
