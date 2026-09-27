@@ -65,13 +65,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an Assistant Professor of Computer Science at the University of Sharjah. I blog about geospatial data science, GeoAI, and scalable big data systems. I apply a range of qualitative and quantitative methods to comprehensively investigate efficient approximate analytics for multidimensional big data streams, with a focus on smart cities, climate change mitigation, and environmental mobility data integration 
-        
-        Please reach out to collaborate. 😃
-        
-        Email- ijawarneh [AT] sharjah.ac.ae
+        Isam Mashhour Al Jawarneh is an Assistant Professor of [Computer Science and Engineering](https://www.sharjah.ac.ae/Academics/College-of-Computing-and-Informatics) at [The University of Sharjah](https://www.sharjah.ac.ae/), where he leads research at the intersection of geospatial data science, big data systems, and AI for smart city analytics. He completed his Ph.D. in Computer Science and Engineering from [The University of Bologna](https://www.unibo.it/en), Italy, in 2020, and was a Postdoctoral Research Fellow there until 2022. Before that, he earned a Master’s degree in Information Technology and a B.Sc. in Computer Science, building a foundation in systems, data engineering, and applied computing.
 
-        I love beach 🏝 and travelling  ✈
+        His research interests are in Geospatial Data Science, Big Data Management, and Intelligent Urban Analytics. His work aims to design scalable, real-time systems that can process massive spatiotemporal streams while preserving efficiency, accuracy, and decision-making value for cities, institutions, and public-health applications. The research spans three core areas:
+
+        - **Geospatial Big Data Management**: building scalable architectures for ingesting, indexing, querying, and analyzing large-scale mobility, environmental, and urban data streams.
+        - **Approximate and QoS-Aware Analytics**: designing adaptive methods that balance accuracy, latency, and computational cost for near-real-time geospatial decision support.
+        - **AI for Smart Cities and Climate Resilience**: developing data-driven approaches that support urban planning, environmental monitoring, and health-aware analytics in complex metropolitan settings.
+
+        We are actively looking for strong and motivated students and collaborators to join this research agenda. If you are interested in working with us, please get in touch and explore recent publications and projects.
     design:
       columns: '1'
   - block: collection
