@@ -56,6 +56,61 @@ keywords:
     transform: translateY(-50%);
   }
 
+  .teaching-table-wrap {
+    margin: 1.5rem 0 2.5rem;
+    overflow-x: auto;
+  }
+
+  .teaching-course-table {
+    border-collapse: collapse;
+    min-width: 48rem;
+    table-layout: fixed;
+    width: 100%;
+  }
+
+  .teaching-course-table th,
+  .teaching-course-table td {
+    border-bottom: 1px solid #d1d5db;
+    padding: 1rem 0.9rem;
+    text-align: left;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+  }
+
+  .teaching-course-table th {
+    color: #172033;
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+
+  .teaching-course-table th:nth-child(1),
+  .teaching-course-table td:nth-child(1) { width: 32%; }
+
+  .teaching-course-table th:nth-child(2),
+  .teaching-course-table td:nth-child(2) { width: 16%; }
+
+  .teaching-course-table th:nth-child(3),
+  .teaching-course-table td:nth-child(3) { width: 27%; }
+
+  .teaching-course-table th:nth-child(4),
+  .teaching-course-table td:nth-child(4) { width: 25%; }
+
+  .teaching-course-table a {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+
+  @media (max-width: 640px) {
+    .teaching-course-table {
+      min-width: 42rem;
+    }
+
+    .teaching-course-table th,
+    .teaching-course-table td {
+      padding: 0.8rem 0.65rem;
+    }
+  }
+
 </style>
 Levels: Undergraduate (UG) and Postgraduate (PG)
 
@@ -67,23 +122,27 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 **University of Sharjah, UAE**
 
-
-
-
-| Course | Level | Semesters | Notes |
-|--------|-------|-----------|-------|
-| {{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}} | PG (MSc) | Fall 2024/2025; Fall 2025/2026 | |
-| {{< staticref "uploads/syllabi/1501564_Foundations_of_Data_Science.pdf" "newtab" >}}Foundations of Data Science{{< /staticref >}} | PG (MSc) | Spring 2022/2023; Spring 2023/2024; Spring 2024/2025 | Developed the course and designed the materials from scratch for the Data Science master's degree program. |
-| {{< staticref "uploads/syllabi/1501211_Programming_II.pdf" "newtab" >}}Programming II{{< /staticref >}} | UG | Fall 2025/2026 | |
-| {{< staticref "uploads/syllabi/1501247_Multimedia_Programming_and_Design.pdf" "newtab" >}}Multimedia Design and Programming{{< /staticref >}} | UG | Fall 2023/2024; Fall 2024/2025 | |
-| {{< staticref "uploads/syllabi/1501361_Object_Oriented_Software_Design_and_Implementation.pdf" "newtab" >}}Object-Oriented Software Design and Implementation{{< /staticref >}} | UG | Fall 2024/2025 | |
-| {{< staticref "uploads/syllabi/1501393_Multimedia_Junior_Project.pdf" "newtab" >}}Junior Project{{< /staticref >}} | UG | Spring 2022/2023; Spring 2023/2024 | |
-| {{< staticref "uploads/syllabi/1501394_Junior_Project_in_CS.pdf" "newtab" >}}Senior Project{{< /staticref >}} | UG | Fall 2022/2023; Fall 2023/2024 | |
-| Introduction to IT | UG | Summer 2023, 2024, 2025 | |
-| {{< staticref "uploads/syllabi/1501330_Introduction_to_Artificial_Intelligence.pdf" "newtab" >}}Introduction to AI{{< /staticref >}} | UG | Fall 2026/2027 | |
-| Programming for Engineers | UG | Fall 2022/2023; Fall 2023/2024 | |
-| Web Programming | UG | Fall 2022/2023; Fall 2023/2024 | Updated the course materials. |
-| {{< staticref "uploads/syllabi/1501465_Development_of_Web_Applications.pdf" "newtab" >}}Development of Web Applications{{< /staticref >}} | UG | Fall 2022/2023; Fall 2023/2024; Fall 2024/2025; Fall 2025/2026 | Updated the course materials. |
+<div class="teaching-table-wrap">
+<table class="teaching-course-table">
+<thead>
+<tr><th scope="col">Course</th><th scope="col">Level</th><th scope="col">Semesters</th><th scope="col">Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>{{< staticref "uploads/syllabi/1501532_GIS_Programming_Fundamentals.pdf" "newtab" >}}GIS Programming Fundamentals{{< /staticref >}}</td><td>PG (MSc)</td><td>Fall 2024/2025;<br>Fall 2025/2026</td><td></td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501564_Foundations_of_Data_Science.pdf" "newtab" >}}Foundations of Data Science{{< /staticref >}}</td><td>PG (MSc)</td><td>Spring 2022/2023;<br>Spring 2023/2024;<br>Spring 2024/2025</td><td>Developed the course and designed the materials from scratch for the Data Science master's degree program.</td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501211_Programming_II.pdf" "newtab" >}}Programming II{{< /staticref >}}</td><td>UG</td><td>Fall 2025/2026</td><td></td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501247_Multimedia_Programming_and_Design.pdf" "newtab" >}}Multimedia Design and Programming{{< /staticref >}}</td><td>UG</td><td>Fall 2023/2024;<br>Fall 2024/2025</td><td></td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501361_Object_Oriented_Software_Design_and_Implementation.pdf" "newtab" >}}Object-Oriented Software Design and Implementation{{< /staticref >}}</td><td>UG</td><td>Fall 2024/2025</td><td></td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501393_Multimedia_Junior_Project.pdf" "newtab" >}}Junior Project{{< /staticref >}}</td><td>UG</td><td>Spring 2022/2023;<br>Spring 2023/2024</td><td></td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501394_Junior_Project_in_CS.pdf" "newtab" >}}Senior Project{{< /staticref >}}</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024</td><td></td></tr>
+<tr><td>Introduction to IT</td><td>UG</td><td>Summer 2023, 2024, 2025</td><td></td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501330_Introduction_to_Artificial_Intelligence.pdf" "newtab" >}}Introduction to AI{{< /staticref >}}</td><td>UG</td><td>Fall 2026/2027</td><td></td></tr>
+<tr><td>Programming for Engineers</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024</td><td></td></tr>
+<tr><td>Web Programming</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024</td><td>Updated the course materials.</td></tr>
+<tr><td>{{< staticref "uploads/syllabi/1501465_Development_of_Web_Applications.pdf" "newtab" >}}Development of Web Applications{{< /staticref >}}</td><td>UG</td><td>Fall 2022/2023;<br>Fall 2023/2024;<br>Fall 2024/2025;<br>Fall 2025/2026</td><td>Updated the course materials.</td></tr>
+</tbody>
+</table>
+</div>
 
 {{< /spoiler >}}
 
