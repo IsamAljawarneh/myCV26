@@ -72,6 +72,24 @@ keywords:
     left: -0.45rem;
   }
 
+  main .prose:has(h3) h3 + p,
+  main .prose:has(h3) h3 + details,
+  main .prose:has(h3) h3 + p + details {
+    box-sizing: border-box;
+    width: 50%;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    padding-right: 2rem;
+  }
+
+  main .prose:has(h3) h3:nth-of-type(even) + p,
+  main .prose:has(h3) h3:nth-of-type(even) + details,
+  main .prose:has(h3) h3:nth-of-type(even) + p + details {
+    margin-left: 50%;
+    padding-right: 0;
+    padding-left: 2rem;
+  }
+
   @media (max-width: 640px) {
     main .prose:has(h3)::before {
       left: 0.45rem;
@@ -90,6 +108,18 @@ keywords:
     main .prose:has(h3) h3:nth-of-type(even)::before {
       right: auto;
       left: -1.5rem;
+    }
+
+    main .prose:has(h3) h3 + p,
+    main .prose:has(h3) h3 + details,
+    main .prose:has(h3) h3 + p + details,
+    main .prose:has(h3) h3:nth-of-type(even) + p,
+    main .prose:has(h3) h3:nth-of-type(even) + details,
+    main .prose:has(h3) h3:nth-of-type(even) + p + details {
+      width: auto;
+      margin-left: 1.5rem;
+      padding-right: 0;
+      padding-left: 1rem;
     }
   }
 
