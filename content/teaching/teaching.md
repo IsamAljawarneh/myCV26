@@ -379,6 +379,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 |------|---------|-------|
 | Fatima Alhammadi | MSc in Data Science | {{< tooltip "Preserves pollution readings and road/movement context while compressing GPS trajectories, improving analytic fidelity and retaining roughly 3.9x faster spatial joins than uncompressed data." >}}Context-aware GPS trajectory compression for faster spatial joins{{< /tooltip >}} |
 | Reem Abdelaziz Alshamsi [{{< icon name="academicons/google-scholar" >}} Google Scholar](https://scholar.google.com/citations?user=rDpTKbgAAAAJ&hl=en) | MSc in Artificial Intelligence | Scalable space-time data integration for smart-city GeoAI {{< disclosure "Builds a Spark pipeline that aligns sensor, mobility, and satellite data into shared space-time boxes for exact joins, supporting health-aware route planning and a natural-language GeoAI interface." >}} |
+| [Madyan Omar Bagosher](https://isamaljawarneh.github.io/myCV26/authors/madyan-omar-bagosher/) [{{< icon name="brands/github" >}} GitHub](https://github.com/MadyanOmar) [{{< icon name="academicons/google-scholar" >}} Google Scholar](https://scholar.google.com/citations?user=Q9mCyCUAAAAJ&hl=en) [{{< icon name="brands/linkedin" >}} LinkedIn](https://www.linkedin.com/in/madyan-bagsheir-6b5847198/) | MSc in Artificial Intelligence | Efficient Geospatial Machine Learning for Heterogeneous Hyperlocal Georeferenced Datasets {{< disclosure "Applies federated learning to hyperlocal air-quality forecasting, training across distributed sensor data without centralizing raw observations while improving spatial-temporal modeling efficiency, scalability, and privacy." >}} |
 
 #### Past Students
 
@@ -386,7 +387,6 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 | Name | Program | Topic | Year |
 |------|---------|-------|------|
-| [Madyan Omar Bagosher]({{< relref "/authors/madyan-bagosher" >}}) | MSc in Artificial Intelligence | Efficient Geospatial Machine Learning for Heterogeneous Hyperlocal Georeferenced Datasets {{< disclosure "Applies federated learning to hyperlocal air-quality forecasting, training across distributed sensor data without centralizing raw observations while improving spatial-temporal modeling efficiency, scalability, and privacy." >}} | 2025 |
 | Carol Williams | M.S. | Natural language processing | 2025 |
 | David Brown | M.S. | Computer vision applications | 2024 |
 
