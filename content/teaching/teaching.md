@@ -378,6 +378,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 | Name | Program | Topic |
 |------|---------|-------|
 | Fatima Alhammadi | MSc in Data Science | {{< tooltip "Preserves pollution readings and road/movement context while compressing GPS trajectories, improving analytic fidelity and retaining roughly 3.9x faster spatial joins than uncompressed data." >}}Context-aware GPS trajectory compression for faster spatial joins{{< /tooltip >}} |
+| Reem Abdelaziz Alshamsi | MSc in Artificial Intelligence | Scalable space-time data integration for smart-city GeoAI {{< disclosure "Builds a Spark pipeline that aligns sensor, mobility, and satellite data into shared space-time boxes for exact joins, supporting health-aware route planning and a natural-language GeoAI interface." >}} |
 
 #### Past Students
 
