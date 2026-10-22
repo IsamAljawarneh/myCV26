@@ -65,7 +65,7 @@ outstanding undergraduate student's project that I co-supervised recently:
 
 {{< hl >}}project title{{< /hl >}}: *QoS-aware Cloud-based Meteo and Mobility Data Processing at Scale*
 
-{{< hl >}}student{{< /hl >}}: [Denis Pereira](https://ie.linkedin.com/in/denis-pereira/en) currently `DevOps Engineer` at [workday Ireland](https://www.workday.com/en-us/homepage.html)
+{{< hl >}}student{{< /hl >}}: [Denis Pereira](https://ie.linkedin.com/in/denis-pereira/en) currently `Senior Data Engineer` at [Bikeleasing-Service Deutschland](https://www.linkedin.com/company/bikeleasing-service-de/home/)
 
 {{< hl >}}My Role{{< /hl >}}:  **`Co-Advisor`** with Prof. [Paolo Bellavista](https://www.unibo.it/sitoweb/paolo.bellavista/en)
 
