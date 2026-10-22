@@ -386,6 +386,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 | Name | Program | Topic | Year |
 |------|---------|-------|------|
+| [Madyan Omar Bagosher]({{< relref "/authors/madyan-bagosher" >}}) | MSc in Artificial Intelligence | Efficient Geospatial Machine Learning for Heterogeneous Hyperlocal Georeferenced Datasets {{< disclosure "Applies federated learning to hyperlocal air-quality forecasting, training across distributed sensor data without centralizing raw observations while improving spatial-temporal modeling efficiency, scalability, and privacy." >}} | 2025 |
 | Carol Williams | M.S. | Natural language processing | 2025 |
 | David Brown | M.S. | Computer vision applications | 2024 |
 
