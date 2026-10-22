@@ -377,8 +377,7 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 | Name | Program | Topic |
 |------|---------|-------|
-| Alice Smith | Ph.D. | Machine learning for scientific discovery |
-| Bob Johnson | M.S. | Cloud computing optimization |
+| Fatima Alhammadi | MSc in Data Science | {{< tooltip "Preserves pollution readings and road/movement context while compressing GPS trajectories, improving analytic fidelity and retaining roughly 3.9x faster spatial joins than uncompressed data." >}}Context-aware GPS trajectory compression for faster spatial joins{{< /tooltip >}} |
 
 #### Past Students
 
