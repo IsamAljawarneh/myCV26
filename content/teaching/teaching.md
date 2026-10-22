@@ -385,9 +385,9 @@ Levels: Undergraduate (UG) and Postgraduate (PG)
 
 {{< spoiler text="Graduated" >}}
 
-| Name | Program | Topic | Year |
-|------|---------|-------|------|
-| Carol Williams | M.S. | Natural language processing | 2025 |
-| David Brown | M.S. | Computer vision applications | 2024 |
+| Student | Program | Advising record |
+|---------|---------|-----------------|
+| [Lorenzo Felletti]({{< relref "/advising#masters-degree-students-supervised" >}}) | Master's | Thesis and publication |
+| [Denis Pereira]({{< relref "/advising#an-example" >}}) | Undergraduate | Co-advised project |
 
 {{< /spoiler >}}
