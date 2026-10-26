@@ -43,7 +43,7 @@ I contribute to the research community through conference leadership, technical 
 - IEEE ICC'24 - CQRM Symposium, 2024
 - IEEE Globecom 2024 CQRM
 - **2024** IEEE ICC'24 - CQRM Symposium
-- **2023** [IEEE ICC'23 - CQRM Symposium](https://edas.info/listConferencesReview.php?p=1470890&c=29483)
+- **2023** IEEE ICC'23 - CQRM Symposium
 - **2022** [IEEE ICC 2022](https://icc2022.ieee-icc.org/)
 - [IEEE BlackSeaCom 2021](https://blackseacom2021.ieee-blackseacom.org/)
 
