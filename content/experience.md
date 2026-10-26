@@ -89,7 +89,11 @@ sections:
         <article class="funding-entry">
         <h3 class="funding-source">IDEHA (Innovation for Data Elaboration in Heritage Areas)</h3>
         <p class="funding-title">An open platform combining cultural heritage content with user and sensor data to deliver tailored digital services across cultural sites.</p>
-        <p class="funding-meta"><span class="funding-label">Project funded by</span>: PON &ldquo;RICERCA E INNOVAZIONE&rdquo; 2014-2020 (no. J46C18000440008).</p>
+        <p class="funding-meta"><span class="funding-label">Years of involvement</span>: 2020-2021<br><span class="funding-label">Project funded by</span>: PON &ldquo;RICERCA E INNOVAZIONE&rdquo; 2014-2020 (no. J46C18000440008).</p>
+        </article>
+        <article class="funding-entry">
+        <h3 class="funding-source">SACHER (Smart Architecture for Cultural Heritage in Emilia Romagna project)</h3>
+        <p class="funding-meta"><span class="funding-label">Funded by</span>: POR-FESR 2014-20 (no. J32I16000120009)<br><span class="funding-label">Through</span>: CIRI (Interdepartmental Centres for Industrial Research; Centri Interdipartimentali di Ricerca Industriale).</p>
         </article>
         </div>
     design:
