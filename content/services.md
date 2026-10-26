@@ -50,12 +50,13 @@ I contribute to the research community through conference leadership, technical 
 {{< button url="https://www.webofscience.com/wos/author/record/O-8313-2019" new_tab="true" style="secondary" size="sm" icon="document-text" >}}View my verified peer review history on Web of Science (WoS){{< /button >}}
 
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**2026**)
+- International Journal of Computers and Applications (**2026**)
 - IEEE Networking Letters (**2026**)
 - International Journal of Digital Earth (**2025**)
 - IEEE Transactions on Circuits and Systems for Video Technology (**2025**)
 - PeerJ Computer Science (**2025**)
 - IEEE Transactions on Network Science and Engineering (**2025**)
-- IEEE Transactions on Knowledge and Data Engineering (**2025**)
+- IEEE Transactions on Knowledge and Data Engineering (**2026**)
 - IEEE Internet of Things Journal (**2025**)
 - Automatika (**2025**)
 - IEEE Transactions on Parallel and Systems (**2025**)
