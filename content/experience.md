@@ -84,7 +84,7 @@ sections:
         <div id="projects">
         <article class="funding-entry">
         <h3 class="funding-source">Digital Ontology-based Modelling Environment for Simulation of materials (SimDOME)</h3>
-        <p class="funding-meta"><span class="funding-label">Role</span>: <strong>Research Fellow</strong><br><span class="funding-label">Year</span>: <strong>2022</strong></p>
+        <p class="funding-meta"><span class="funding-label">Role</span>: <strong>Research Fellow</strong><br><span class="funding-label">Year</span>: <strong>2022</strong><br><span class="funding-label">Funded under</span>: INDUSTRIAL LEADERSHIP - Leadership in enabling and industrial technologies - Advanced materials<br><span class="funding-label">Coordinated by</span>: ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA<br><span class="funding-label">Country</span>: Italy</p>
         </article>
         </div>
     design:
