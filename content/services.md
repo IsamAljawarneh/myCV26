@@ -49,7 +49,7 @@ I contribute to the research community through conference leadership, technical 
 
 #### Session Chair
 
-- **IEEE IDSTA conference 2024**
+- [**IEEE IDSTA conference 2024**](https://idsta-conference.org/2024/program.php)
 
 ### 📒 Journal Reviewing
 
