@@ -28,7 +28,7 @@ I contribute to the research community through conference leadership, technical 
 #### PC Member
 
 - **2023** [International Conference on Intelligent Data Science Technologies and Applications (IDSTA2023)](https://idsta-conference.org/IDSTA2023/committee.php) - IEEE
-- **2022** International Symposium on Algorithmic Aspects of Cloud Computing (ALGOCLOUD)
+- **2022** [International Symposium on Algorithmic Aspects of Cloud Computing (ALGOCLOUD)](https://algo-conference.org/2022/algocloud/), September 5-9, 2022, Potsdam, Germany
 
 #### TPC Chair
 
