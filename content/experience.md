@@ -83,17 +83,17 @@ sections:
       text: |-
         <div id="projects">
         <article class="funding-entry">
-        <h3 class="funding-source">Digital Ontology-based Modelling Environment for Simulation of materials (SimDOME)</h3>
+        <h3 class="funding-source"><a href="https://cordis.europa.eu/project/id/814492/reporting">Digital Ontology-based Modelling Environment for Simulation of materials (SimDOME)</a></h3>
         <p class="funding-meta"><span class="funding-label">Role</span>: <strong>Research Fellow</strong><br><span class="funding-label">Year</span>: <strong>2022</strong><br><span class="funding-label">Funded under</span>: INDUSTRIAL LEADERSHIP - Leadership in enabling and industrial technologies - Advanced materials<br><span class="funding-label">Coordinated by</span>: ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA<br><span class="funding-label">Country</span>: Italy</p>
         </article>
         <article class="funding-entry">
-        <h3 class="funding-source">IDEHA (Innovation for Data Elaboration in Heritage Areas)</h3>
+        <h3 class="funding-source"><a href="https://www.icar.cnr.it/en/progetti/ideha-innovation-for-data-elaboration-in-heritage-areas/">IDEHA (Innovation for Data Elaboration in Heritage Areas)</a></h3>
         <p class="funding-title">An open platform combining cultural heritage content with user and sensor data to deliver tailored digital services across cultural sites.</p>
         <p class="funding-meta"><span class="funding-label">Years of involvement</span>: 2020-2021<br><span class="funding-label">Project funded by</span>: PON &ldquo;RICERCA E INNOVAZIONE&rdquo; 2014-2020 (no. J46C18000440008).</p>
         </article>
         <article class="funding-entry">
-        <h3 class="funding-source">SACHER (Smart Architecture for Cultural Heritage in Emilia Romagna project)</h3>
-        <p class="funding-meta"><span class="funding-label">Funded by</span>: POR-FESR 2014-20 (no. J32I16000120009)<br><span class="funding-label">Through</span>: CIRI (Interdepartmental Centres for Industrial Research; Centri Interdipartimentali di Ricerca Industriale).</p>
+        <h3 class="funding-source"><a href="https://da.unibo.it/en/research/research-projects/project-archive/sacher">SACHER (Smart Architecture for Cultural Heritage in Emilia Romagna project)</a></h3>
+        <p class="funding-meta"><span class="funding-label">Funded by</span>: POR-FESR 2014-20 (no. J32I16000120009)<br><span class="funding-label">Through</span>: <a href="https://www.unibo.it/en/university/organisation-and-campuses/interdepartmental-centres-industrial-research">CIRI</a> (Interdepartmental Centres for Industrial Research; Centri Interdipartimentali di Ricerca Industriale).<br>Led in part by <a href="https://www.google.com/search?kgmid=%2Fg%2F11fyxvvb06&amp;q=Rebecca+Montanari">Rebecca Montanari</a> through the <a href="https://www.unibo.it/en/university/organisation-and-campuses/interdepartmental-centres-industrial-research">CIRI ICT</a> at the University of Bologna.</p>
         </article>
         </div>
     design:
