@@ -28,6 +28,7 @@ I contribute to the research community through conference leadership, technical 
 
 #### TPC Chair
 
+- [The 11th International Conference on Fog and Mobile Edge Computing (FMEC 2026)](https://emergingtechnet.org/FMEC2026/committee.php), 15 - 18 September 2026 | Abu Dhabi, UAE
 - [International Conference on Modern Computing, Communication, and Applications (MCNA)](https://mcna-conference.org/2025/committee.php), IEEE, Tampa, Florida, USA, 19-22 May 2025
 
 #### Technical Program Committee (TPC) Member
