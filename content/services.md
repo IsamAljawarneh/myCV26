@@ -32,6 +32,7 @@ I contribute to the research community through conference leadership, technical 
 
 #### Technical Program Committee (TPC) Member
 
+- [ICC 2026 WS-04 - Resilient Ind Networks](https://edas.info/listConferenceReviews.php?c=34747&reviewtype=54981&p=1470890) 24-28 May 2026
 - IEEE ICC'25 - CQRM Symposium, 2025
 - TPC reviewer, IEEE/ACM UCC, 2024
 - IEEE ICC'24 - CQRM Symposium, 2024
