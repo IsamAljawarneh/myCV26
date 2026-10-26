@@ -19,7 +19,7 @@ I contribute to the research community through conference leadership, technical 
 
 #### Workshop Chair
 
-- 15th Workshop on Management of Cloud and Smart City Systems (MoCS 2025), Bologna, Italy, July 2025
+- [15th Workshop on Management of Cloud and Smart City Systems (MoCS 2025)](https://sites.google.com/view/mocs2025/committee?authuser=0), Bologna, Italy, July 2025
 
 #### PC Member
 
@@ -28,7 +28,7 @@ I contribute to the research community through conference leadership, technical 
 
 #### TPC Chair
 
-- International Conference on Modern Computing, Communication, and Applications (MCNA), IEEE, Tampa, Florida, USA, 19-22 May 2025
+- [International Conference on Modern Computing, Communication, and Applications (MCNA)](https://mcna-conference.org/2025/committee.php), IEEE, Tampa, Florida, USA, 19-22 May 2025
 
 #### Technical Program Committee (TPC) Member
 
