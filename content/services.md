@@ -21,6 +21,10 @@ I contribute to the research community through conference leadership, technical 
 
 - [15th Workshop on Management of Cloud and Smart City Systems (MoCS 2025)](https://sites.google.com/view/mocs2025/committee?authuser=0), Bologna, Italy, July 2025
 
+#### Publicity Chair
+
+- [9th International Conference on Modern Computing, Networking and Applications (MCNA2026)](https://mcna-conference.org/2026/committee.php), May 12-15, 2026, San Antonio, Texas, USA
+
 #### PC Member
 
 - **2023** International Conference on Intelligent Data Science Technologies and Applications (IDSTA2023) - IEEE
