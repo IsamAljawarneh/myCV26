@@ -32,7 +32,7 @@ sections:
           }
         }
         </style>
-        I enjoy making things. Here are a selection of projects that I have worked on over the years. See <a class="projects-experience-link" href="https://isamaljawarneh.github.io/myCV26/experience/#projects">additional project experience in Highlights</a>.
+        I enjoy making things. Here are a selection of projects that I have worked on over the years. click here to see <a class="projects-experience-link" href="https://isamaljawarneh.github.io/myCV26/experience/#projects">additional project experience in Highlights</a>.
       filters:
         folders:
           - projects
